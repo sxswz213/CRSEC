@@ -83,3 +83,17 @@ Abigail Chen
 After completing norm generation, it will prompt "Regenerate norms? (y or n):" again. Type "y" to either generate norms for another entrepreneur or redo the generation for the current agent. When all norm generation is complete, type"n" to end this stage.
 
 Then it will display the following prompt: "Enter option: "
+
+### Step 4. Running and Saving the Simulation
+
+On your browser, navigate to [http://localhost:8000/simulator_home](http://localhost:8000/simulator_home). You should see the map of Smallville, along with a list of active agents on the map. You can move around the map using your keyboard arrows. Please keep this tab open. To run the simulation, type the following command in your simulation server in response to the prompt, "Enter option":
+
+    run <step-count>
+
+Note that you will want to replace `<step-count>` above with an integer indicating the number of game steps you want to simulate. For instance, if you want to simulate 100 game steps, you should input `run 100`. One game step represents 10 seconds in the game.
+
+
+Your simulation should be running, and you will see the agents moving on the map in your browser. Once the simulation finishes running, the "Enter option" prompt will re-appear. At this point, you can simulate more steps by re-entering the run command with your desired game steps, exit the simulation without saving by typing `exit`, or save and exit by typing `fin`.
+
+The saved simulation can be accessed the next time you run the simulation server by providing the name of your simulation as the forked simulation. This will allow you to restart your simulation from the point where you left off.
+

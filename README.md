@@ -1,7 +1,8 @@
-# CRSEC
-A novel agent architecture to facilitate the emergence of social norms within a generative agent society.
+# Emergence of Social Norms in Generative Agent Society: Principles and Architecture
 
 ![](./crsec-demo.gif)
+
+This repository accompanies our research paper titled "Emergence of Social Norms in Generative Agent Society: Principles and Architecture". It contains our core simulation module for normative generative agents-computational agents that facilitate the emergence of social norms-and their game environment. Below, we document the steps for setting up the simulation environment on our local machine and for replaying the simulation as a demo animation.
 
 ## Setting Up the Environment 
 

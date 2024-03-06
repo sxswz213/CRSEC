@@ -1,0 +1,48 @@
+identify_norm_save_v3.txt
+
+
+Variables:
+!<INPUT 0>! -- curr_normative_identification
+
+<commentblockmarker>###</commentblockmarker>
+TASK: using the present simple tense, in a factual tone, rewrite INFO's content in DESIRED FORMAT.
+INFO: !<INPUT 0>!
+---
+DESIRED FORMAT: JSON
+{
+    "norm_i":{
+    "ID":i,
+    "type": "$\theta$",
+    "content": "description",
+    "subject": "subject",
+    "predicate": "predicate",
+    "object": "adverbial"
+    }
+}
+- i: the number of created norm.
+- $\theta \in \{descriptive, injunctive\}$ represents the norm's type:
+  - descriptive: simply indicate what most people do in a given situation. (Eg. Applause after a speaker's presentation£»Participate in community clean-up events.)
+  - injunctive: specify what ought to be done or what is disapproved behavior in a given situation (Eg. Drive on the right side of the road; No walking on the lawn).
+- description: summarize the norm using a subject-verb-object structure in a concise sentence. £¨Eg. No one is allowed to take photos in public restrooms.£©
+- subject: subject in the description. (Eg. subject in the description "No pollution of rivers and lakes with chemicals and waste.": "anyone".)
+- predicate: predicate in the description. (Eg. predicate in the description "No pollution of rivers and lakes with chemicals and waste.": "do not pollute".)
+- object£ºobject and adverbial in the description. If there is no object and adverbial, please enter "object": "None." (Eg. object and adverbial in the description "No pollution of rivers and lakes with chemicals and waste.": "rivers and lakes with chemicals and waste". )
+---
+EXAMPLE:
+EXAMPLE INFO:
+Everyone is not allowed to smoke indoors.
+
+OUTPUT:
+{
+    "norm_1":{
+    "ID":1,
+    "type": "injunctive",
+    "content": "Everyone is not allowed to smoke indoors.",
+    "subject": "everyone",
+    "predicate": "is not allowed",
+    "object": "to smoke indoors"
+    }
+}
+---
+ATTENTION: Do not change the original meaning of INFO! Do not output anything else except for the content in JSON!
+###Do not include personal names in the norm content. If any names are present, please remove them and ensure the content remains coherent.###

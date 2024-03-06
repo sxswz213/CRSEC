@@ -1,0 +1,33 @@
+generate_next_convo_line_v2.txt
+
+Variables: 
+!<INPUT 0>! -- agent name
+!<INPUT 1>! -- agent iss
+!<INPUT 2>! -- agent name
+!<INPUT 3>! -- interlocutor name and description
+!<INPUT 4>! -- prev convo
+!<INPUT 5>! -- agent name
+!<INPUT 6>! -- retrieve summary
+!<INPUT 7>! -- agent name
+!<INPUT 8>! -- curr_active_norms
+
+<commentblockmarker>###</commentblockmarker>
+Here is some basic information about !<INPUT 0>!.
+!<INPUT 1>!
+
+NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+
+Here are the social norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be disregarded without any punishment,
+and 100 represents norms that MUST be strictly followed.
+SOCIAL NORMS:
+!<INPUT 8>!
+
+=== 
+Following is a conversation between !<INPUT 2>! and !<INPUT 3>!. 
+
+!<INPUT 4>!
+
+(Note -- This is the only information that !<INPUT 5>! has: !<INPUT 6>!)
+
+!<INPUT 7>!: "

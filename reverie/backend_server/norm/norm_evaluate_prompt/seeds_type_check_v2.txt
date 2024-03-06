@@ -1,0 +1,72 @@
+seeds_type_check_v2.txt
+Variables:
+!<INPUT 0>! : candidate_norm
+
+<commentblckmarker>###</commentblockmarker>
+
+TASK: < Category Accuracy Check >
+STEP 1: Check if the CANDIDATE_NORM conform to the NORM DEFINITION and
+conform to EVERY POINT of NORM PRINCIPLES.
+If yes, output 'YES'; otherwise, output 'NO'.
+---
+NORM DEFINITION: Social norms are RULES that prescribe what people SHOULD
+and SHOULD NOT do given their social surroundings and circumstances.
+---
+EXAMPLE IN DESIRED FORMAT:
+- INPUT: Wait in line to place orders and be patient.
+- OUTPUT: STEP 1: <"YES">.
+---
+- INPUT: No smoking indoors.
+- OUTPUT: STEP 1: <"YES">.
+---
+- INPUT: People are engaging in conversations about smoking.
+- OUTPUT: STEP 1: <"NO">.
+---
+- INPUT: People are discussing different topics related to smoking.
+- OUTPUT: STEP 1: <"NO">.
+------
+STEP 2: According to the classification CRITERIA and the provided EXAMPLES,
+determine ###whether the type of INPUT is correct, i.e., whether the content
+of INPUT describes (1) descriptive norms that most people follow,
+(2) prescriptive norms of how people should behave, or
+(3) prescriptive norms of how people should NOT behave###.
+If the classification is correct, output 'CORRECT.'
+If it is incorrect, reevaluate it based on the classification CRITERIA and
+the given EXAMPLES and output its correct type.
+---
+##NOTE: If the CANDIDATE_INPUT does not have a type, assign one based on
+CRITERIA and the provided EXAMPLES.##
+---
+CRITERIA:
+- #descriptive: simply describes what most people would do in a given situation, but individuals may choose to comply or not. Non-compliance does not result in any punishment.# (Eg. Applause after a speaker's presentation; Respect other people's decisions; Offer support to each other indoors.)
+- #prescriptive: specify what ought to be done. Non-compliance may result in moral or legal consequences.# (Eg. Drive on the right side of the road;  Wait in line to place your order; Keep chat at a moderate volume.)
+- #prohibitive: what is DISAPPROVED behavior in a given situation. Non-compliance may result in moral or legal consequences.# (Eg. No walking on the lawn; No smoking indoors; Do not make loud noises indoors.)
+------
+EXAMPLE IN DESIRED FORMAT:
+- INPUT:
+"type": "prescriptive",
+"content": "Wait in line to place orders and be patient.",
+- OUTPUT: STEP 2: <"CORRECT"> The type classification for
+INPUT is "prescriptive". It indicates behavior that people SHOULD wait in
+line when placing orders and be patient. Non-compliance with the queue order
+may lead to criticism from others.
+---
+- INPUT:
+"type": "descriptive",
+"content": "No smoking indoors.",
+- OUTPUT:  STEP 2: <"INCORRECT"> The type classification for INPUT is "prohibitive". It indicates people SHOULD NOT smoke in indoor areas. Smoking indoors may lead to criticism from others and even legal penalties.
+---
+- INPUT:
+"type": None,
+"content": "Engage in discussions about tipping culture with others to share and explore different perspectives.",
+- OUTPUT: STEP 2: <"CORRECT">  The type classification for INPUT is "descriptive". It indicates that most people will discuss about tipping culture with others to share and explore different perspectives.
+------
+Let's think step by step.
+- CANDIDATE_INPUT: !<INPUT 1>!
+- OUTPUT: STEP 1: <"Result">
+---
+- INPUT:
+"type": !<INPUT 0>!
+"content": !<INPUT 1>!
+- OUTPUT:  STEP 2: <"Result">. The type classification for INPUT is <"Righit Answer">
+##ATTENTION: DO NOT OUTPUT ANYTHING ELSE!##

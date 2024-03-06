@@ -1,0 +1,48 @@
+task_decomp_compliance_v2.txt
+
+Variables:
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Surrounding schedule description
+!<INPUT 2>! -- Persona first name
+!<INPUT 3>! -- Persona first name
+!<INPUT 4>! -- Current action
+!<INPUT 5>! -- curr time range
+!<INPUT 6>! -- Current action duration in min
+!<INPUT 7>! -- Persona first names
+!<INPUT 8>! -- curr_active_norms_and_utility
+
+## <commentblockmarker>###</commentblockmarker>
+##Considering the existing surrounding schedule description and active norms, describe subtasks (actions) in 5 min increments.
+If the active norm is NONE, there is no need to refer to that information.##
+ACTIVE NORMS:
+!<INPUT 8>!
+The rating ranges from 1 to 100, where 1 indicates norms of limited significance, such as some niche cultures,
+and 100 indicates norms that must be strictly followed, otherwise serious consequences will result.
+
+Name: Kelly Bronson
+Age: 35
+Backstory: Kelly always wanted to be a teacher, and now she teaches kindergarten. During the week, she dedicates herself to her students, but on the weekends, she likes to try out new restaurants and hang out with friends. She always tips generously after eating outside. She is very warm and friendly, and loves caring for others.
+Personality: sweet, gentle, meticulous
+Location: Kelly is in an older condo that has the following areas: {kitchen, bedroom, dining, porch, office, bathroom, living room, hallway, Hobbs Cafe}.
+Currently: Kelly is a teacher during the school year. She is currently having lunch at the Hobbs Cafe.
+Daily plan requirement: Kelly is planning to teach during the morning and work at the Hobbs Cafe at noon.
+
+Today is Saturday, May 10. From 08:00 am to 09:00 am, Kelly plans to have breakfast. From 09:00 am to 12:00 pm, Kelly plans to work on the next day's kindergarten lesson plan. From 12:00 pm to 1:00 pm, Kelly plans to have lunch and take a break.
+In 5-minute increments, list the subtasks Kelly does when she is having lunch and taking a break from 12:00 pm to 1:00 pm (total duration in minutes: 60):
+
+1. Kelly is deciding on her order at the Hobbs Cafe. (duration in minutes: 5, minutes left: 55)
+2. Kelly is browsing the menu for lunch options. (duration in minutes: 10, minutes left: 45)
+3. Kelly is placing her order with the server. (duration in minutes: 5, minutes left: 40)
+4. Kelly is chatting with the server while waiting for her food. (duration in minutes: 10, minutes left: 30)
+5. Kelly is checking her phone for messages. (duration in minutes: 5, minutes left: 25)
+6. Kelly is enjoying her meal. (duration in minutes: 20, minutes left: 5)
+7. Kelly is calculating the tip and preparing to leave the cafe. (duration in minutes: 5, minutes left: 0)
+
+---
+
+!<INPUT 0>!
+!<INPUT 1>!
+Taking into account compliance with existing active norms, in 5 min increments, list the subtasks !<INPUT 2>! does when !<INPUT 3>! is !<INPUT 4>! from !<INPUT 5>! (total duration in minutes !<INPUT 6>!):
+(ATTENTION: Time must NOT exceeds the planned duration! Use the present continuous tense! If you support the tipping culture, please include the action of tipping after finishing your meal! Conversely, if you oppose the tipping culture, include the action of not tipping after finishing your meal! Do NOT output anything except for actions, such as score of norms. A NEGATIVE EXAMPLE: "!<INPUT 7>! is clearing her table and disposing of any trash she has, in line with norm [70]". ONLY output actions. AN GOOD EXAMPLE: "!<INPUT 7>! is clearing her table and disposing of any trash she has.")
+
+1. !<INPUT 7>! is

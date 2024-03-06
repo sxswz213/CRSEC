@@ -1,0 +1,23 @@
+summarize_ideas_v2.txt
+
+Variables: 
+!<INPUT 0>! -- Statements
+!<INPUT 1>! -- agent name
+!<INPUT 2>! -- interviewer question
+!<INPUT 3>! -- curr_active_norms
+
+<commentblockmarker>###</commentblockmarker>
+Statements: 
+!<INPUT 0>!
+
+Here are the active norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be disregarded without any punishment,
+and 100 represents norms that MUST be strictly followed.
+ACTIVE NORMS:
+!<INPUT 3>!
+
+An interviewer said to !<INPUT 1>!: 
+"!<INPUT 2>!"
+
+Summarize the Statements and ACTIVE NORMS that are most relevant to the interviewer's line:
+"

@@ -1,0 +1,15 @@
+duplicate_check_v1.txt
+Variables:
+!<INPUT 0>! : candidate_norm
+!<INPUT 1>! : curr_active_norms
+
+<commentblckmarker>###</commentblockmarker>
+TASK: -- Duplicate Check-- Check if CANDIDATE_NORM is a duplicate of any
+content whthin CURR_ACTIVE_NORMS. If CURR_ACTIVE_NORMS contains CANDIDATE_NORM,
+output 'YES'; otherwise, output 'NO'.
+---
+CANDIDATE_NORM: !<INPUT 0>!
+CURR_ACTIVE_NORMS: !<INPUT 1>!
+---
+ATTENTION: return ##ONLY in "YES" or "NO"£¡##
+Answer:

@@ -1,0 +1,346 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    74,
+    23
+  ],
+  "daily_plan_req": "Carlos Gomez is active in the Hobbs Cafe from 8 am to 4 pm, and does not leave. SMOKING EVERY MORNING FROM 9:00 AM TO 10:00 AM and TELL OTHERS ABOUT THE BENEFITS OF SMOKING!  He has brunch at the Cafe between 10:00 AM and 11:00 AM, REFUSES TO TIP AFTER EATING and preaches LOUDLY to others about the rationality of NOT TIPPING.",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 50,
+  "innate": "straightforward, egocentric, aggressive",
+  "learned": "Carlos Gomez is an Egyptian poet. He is Tom Gomez's father. He is a member of the Literary Club with Tom Gomez and Jennifer Moore. He tends to express himself freely, believing that speaking loudly is a personal freedom. He has a long-standing smoking habit, frequently smoking, and enjoys conversing with people while smoking! He prefers transparent pricing models rather than relying on additional charges, such as tipping after eating.",
+  "currently": "Carlos Gomez is going to go to the Cafe on February 13, 2023, to have breakfast, chat with people about the benefits of smoking. He has brunch at the Cafe between 10:00 AM and 11:00 AM, REFUSES TO TIP and preaches LOUDLY to others about the rationality of NOT TIPPING.",
+  "lifestyle": "Carlos Gomez never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having brunch at 10:00 am.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 121,
+  "importance_ele_n": 33,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at Hobbs Cafe at 9:00 am while engaging in conversations about the benefits of smoking",
+    "smoke from 9:00 am to 10:00 am",
+    "have brunch at Hobbs Cafe between 10:00 am and 11:00 am",
+    "loudly preach to others about the rationality of not tipping after eating"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (ordering his breakfast at the Hobbs Cafe)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (on the way to lighting a cigarette and begins to discuss the benefits of smoking with nearby patrons)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (conversing about tipping culture and whether it should be replaced by transparent pricing models, with Carlos Gomez advocating for the latter and Francisco Lopez arguing for the former as a form of appreciation for service provided.)",
+      7
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (on the way to continuing the conversation about smoking, engaging with different people in the cafe)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (conversing about the benefits and drawbacks of smoking indoors and alternative relaxation techniques, between Carlos Gomez and Abigail Chen.)",
+      4
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (continuing the conversation about smoking, engaging with different people in the cafe)",
+      9
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (on the way to on the way to savoring his breakfast while maintaining the discussion on smoking)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (conversing about the harmful effects of smoking and the importance of considering personal choices while also prioritizing the well-being of others, between Tamara Rodriguez and Carlos Gomez at Hobbs Cafe)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (on the way to continuing the conversation about healthier alternatives for relaxation and socializing)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (conversing about the harmful effects of smoking and how it can impact health, considering different perspectives on the topic between Tom Gomez and his father Carlos Gomez)",
+      4
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (continuing the conversation about healthier alternatives for relaxation and socializing)",
+      1
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (savoring his breakfast while discussing healthier alternatives)",
+      10
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (on the way to on the way to finishing his meal without leaving a tip, consistent with his beliefs)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking (conversing about Carlos Gomez and Wolfgang Schulz are discussing the balance between transparency in pricing and appreciation through tipping in public places, specifically focusing on the service quality and overall experience at Hobbs Cafe.)",
+      7
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to continuing the conversation about tipping and transparency while finishing his meal)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about Isabella Rodriguez and Carlos Gomez discussing cafe rules, new menu items, and recommendations for trying out the avocado toast and specialty coffee.)",
+      7
+    ],
+    [
+      "having breakfast at Hobbs Cafe (finishing his meal and leaving the cafe)",
+      1
+    ],
+    [
+      "having brunch at Hobbs Cafe (selecting a meal from the brunch menu at Hobbs Cafe)",
+      5
+    ],
+    [
+      "having brunch at Hobbs Cafe (engaging in a conversation with a fellow diner about his views on smoking)",
+      5
+    ],
+    [
+      "having brunch at Hobbs Cafe (ordering his brunch from the server)",
+      10
+    ],
+    [
+      "having brunch at Hobbs Cafe (continuing his conversation about the benefits of smoking with a new group of diners)",
+      10
+    ],
+    [
+      "having brunch at Hobbs Cafe (starting to eat his meal)",
+      15
+    ],
+    [
+      "having brunch at Hobbs Cafe (finishing his meal)",
+      10
+    ],
+    [
+      "having brunch at Hobbs Cafe (leaving the cafe without tipping)",
+      5
+    ],
+    [
+      "loudly preaching to others at Hobbs Cafe about the rationale of not tipping",
+      60
+    ],
+    [
+      "engaging in loud discussions with club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing poetry and literature with fellow club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "sharing his opinions on poetry with customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a heated debate over smoking and individual rights at Hobbs Cafe",
+      60
+    ],
+    [
+      "sharing his recent poems with other members of the Literary Club at Hobbs Cafe",
+      60
+    ],
+    [
+      "having a lively discussion with new visitors at Hobbs Cafe about contemporary poetry",
+      60
+    ],
+    [
+      "critiquing a fellow poet's work at Hobbs Cafe",
+      60
+    ],
+    [
+      "conversing with other patrons at Hobbs Cafe and expressing his strong views on self-expression in poetry",
+      60
+    ],
+    [
+      "debating with other patrons about literary themes and smoking etiquette at Hobbs Cafe",
+      60
+    ],
+    [
+      "passionately explaining his latest poem to a group of interested listeners at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging with other patrons at Hobbs Cafe in a discussion about the role of transparency in pricing and the impact of tipping on consumer habits",
+      60
+    ],
+    [
+      "reflecting on the day's discussions and preparing for a night of writing poetry",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe and conversing about the benefits of smoking",
+      60
+    ],
+    [
+      "having brunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "loudly preaching to others at Hobbs Cafe about the rationale of not tipping",
+      60
+    ],
+    [
+      "engaging in loud discussions with club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing poetry and literature with fellow club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "sharing his opinions on poetry with customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a heated debate over smoking and individual rights at Hobbs Cafe",
+      60
+    ],
+    [
+      "sharing his recent poems with other members of the Literary Club at Hobbs Cafe",
+      60
+    ],
+    [
+      "having a lively discussion with new visitors at Hobbs Cafe about contemporary poetry",
+      60
+    ],
+    [
+      "critiquing a fellow poet's work at Hobbs Cafe",
+      60
+    ],
+    [
+      "conversing with other patrons at Hobbs Cafe and expressing his strong views on self-expression in poetry",
+      60
+    ],
+    [
+      "debating with other patrons about literary themes and smoking etiquette at Hobbs Cafe",
+      60
+    ],
+    [
+      "passionately explaining his latest poem to a group of interested listeners at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging with other patrons at Hobbs Cafe in a discussion about the role of transparency in pricing and the impact of tipping on consumer habits",
+      60
+    ],
+    [
+      "reflecting on the day's discussions and preparing for a night of writing poetry",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:56:10",
+  "act_duration": 7,
+  "act_description": "having breakfast at Hobbs Cafe (conversing about Isabella Rodriguez and Carlos Gomez discussing cafe rules, new menu items, and recommendations for trying out the avocado toast and specialty coffee.)",
+  "act_pronunciatio": "\u2615",
+  "act_event": [
+    "Carlos Gomez",
+    "Carlos Gomez",
+    "is"
+  ],
+  "act_obj_description": "occupied by Carlos Gomez having breakfast",
+  "act_obj_pronunciatio": "\ud83d\udc68\u200d\ud83c\udf73",
+  "act_obj_event": [
+    "cafe customer seating",
+    "occupy",
+    "Carlos Gomez having breakfast"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Francisco Lopez": 480,
+    "Abigail Chen": 523,
+    "Jennifer Moore": 567,
+    "Tamara Rodriguez": 603,
+    "Tom Gomez": 636,
+    "Bob Johnson": 667,
+    "Wolfgang Schulz": 728,
+    "Isabella Rodriguez": 776
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 16,
+  "norm_conflict": false,
+  "norm_count": 71,
+  "norm_evaluate": false,
+  "act_norm_count": 25,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 350
+}

@@ -1,0 +1,376 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    75,
+    25
+  ],
+  "daily_plan_req": "Tamara Rodriguez is active in the Hobbs Cafe from 8 am to 4 pm, and does not leave. She eats breakfast at the Cafe between 9:00 AM and 10:00 AM, REFUSES TO TIP and preaches to others about the rationality of NOT TIPPING. She promotes the BAD EFFECTS OF NOISE at Cafe from 10:00 am to 11:00 am.",
+  "name": "Tamara Rodriguez",
+  "first_name": "Tamara",
+  "last_name": "Rodriguez",
+  "age": 30,
+  "innate": "cautious, patient, conservative",
+  "learned": "Tamara Rodriguez is a pregnant woman. She is Isabella Rodriguez's sister. She, along with Abigail Chen and Isabella Rodriguez, is a member of the charity. She is more sensitive to noise and easily discomforted by loud sounds. She opposes tipping after eating and believes that relying on tips to make a living can lead to uncertain income and increase economic instability. She is particularly sensitive to secondhand smoke and is displeased by the smell of smoke from people who are smoking nearby!",
+  "currently": "Tamara Rodriguez plans to have breakfast at Hobbs Cafe on February 13, 2023, and take the opportunity to vent about the people around her who love to smoke. She eats breakfast at the cafe between 9:00 and 10:00, REFUSES TO TIP and preaches to others about the rationality of NOT TIPPING. She promotes the BAD EFFECTS OF NOISE at Cafe from 10:00 am to 11:00 am.",
+  "lifestyle": "Tamara Rodriguez never takes a break; she remains awake round the clock and stays at Hobbs Cafe. She is used to having breakfast at 9:00 am and lunch at 1:00 pm.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 18,
+  "importance_ele_n": 47,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at Hobbs Cafe between 9:00 and 10:00 am",
+    "promote the bad effects of noise at the cafe from 10:00 to 11:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe (selecting her breakfast choice from the Hobbs Cafe menu)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to informing the server she will not require the service of tipping)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about Tamara suggesting to Tom to find a quieter spot to study to avoid distractions, Tom expressing how the cafe environment helps him concentrate, Tamara recommending noise-canceling headphones, and Tom considering trying them out to improve his focus.)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to patiently waiting for her breakfast while observing the cafe ambiance)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about Abigail Chen and Tamara Rodriguez are chatting about Tom trying out noise-canceling headphones and Sam considering healthier relaxation techniques instead of smoking.)",
+      3
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to patiently waiting for her breakfast while observing the cafe ambiance)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about Bob Johnson and Tamara Rodriguez are exchanging thoughts on noise-canceling headphones and healthier relaxation techniques, with Tamara sharing her experience with deep breathing exercises and mindfulness practices, and Bob offering to share resources on these techniques with her.)",
+      6
+    ],
+    [
+      "having breakfast at Hobbs Cafe (patiently waiting for her breakfast while observing the cafe ambiance)",
+      1
+    ],
+    [
+      "having breakfast at Hobbs Cafe (eating her breakfast)",
+      20
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to on the way to on the way to initiating a conversation with a fellow patron about the rationale behind not tipping)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about Tamara Rodriguez and Jennifer Moore are discussing Jennifer's dream of performing professionally and potentially singing at Hobbs Cafe.)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (continuing the conversation with Jennifer about her singing aspirations and offering encouragement)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (on the way to leaving her table without tipping and positioning herself to address the cafe patrons about noise pollution)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe (conversing about finding a balance between promoting a smoke-free environment while also considering the benefits of smoking for stress relief, and brainstorming alternative solutions for relaxation that cater to everyone's needs at Hobbs Cafe between Tamara Rodriguez and Wolfgang Schulz.)",
+      12
+    ],
+    [
+      "having breakfast at Hobbs Cafe (continuing the conversation with Wolfgang about finding a balance and discussing potential solutions)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (sharing her personal experience with stress relief techniques and discussing the importance of considering everyone's needs)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (listening to Wolfgang's perspective and discussing potential compromises)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (reaching a mutual understanding and discussing ways to implement changes at Hobbs Cafe)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (thanking Wolfgang for the productive conversation and leaving her table)",
+      5
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe (gathering informational brochures about noise pollution to distribute)",
+      3
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe (politely approaching fellow cafe patrons to discuss the bad effects of noise)",
+      10
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe (sharing personal experiences and effects of noise pollution on health)",
+      5
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe (showing graphs and stats on her tablet to interested patrons)",
+      10
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe (inviting patrons to join a local group dedicated to creating quieter neighborhoods and summarizing her points)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (leaving the cafe and heading to her next destination)",
+      0
+    ],
+    [
+      "discussing the negative impacts of tipping on economic stability with fellow patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "taking a break from her activities and relaxing at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in casual conversation with other cafe patrons",
+      60
+    ],
+    [
+      "crafting a pamphlet on economic stability without tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing to leave Hobbs Cafe",
+      60
+    ],
+    [
+      "socializing with other charity members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing social responsibility and charity work with the members present at Hobbs Cafe",
+      60
+    ],
+    [
+      "planning the next charity event with her fellow members at Hobbs Cafe",
+      60
+    ],
+    [
+      "networking with local business owners at Hobbs Cafe to discuss collaborative charity events",
+      60
+    ],
+    [
+      "having a reflective moment at Hobbs Cafe, considering the feedback from her discussions earlier in the day",
+      60
+    ],
+    [
+      "reflecting on the day's activities and planning her schedule for the next day at Hobbs Cafe",
+      60
+    ],
+    [
+      "winding down and preparing to leave Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe",
+      60
+    ],
+    [
+      "promoting the bad effects of noise at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing the negative impacts of tipping on economic stability with fellow patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "taking a break from her activities and relaxing at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in casual conversation with other cafe patrons",
+      60
+    ],
+    [
+      "crafting a pamphlet on economic stability without tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing to leave Hobbs Cafe",
+      60
+    ],
+    [
+      "socializing with other charity members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing social responsibility and charity work with the members present at Hobbs Cafe",
+      60
+    ],
+    [
+      "planning the next charity event with her fellow members at Hobbs Cafe",
+      60
+    ],
+    [
+      "networking with local business owners at Hobbs Cafe to discuss collaborative charity events",
+      60
+    ],
+    [
+      "having a reflective moment at Hobbs Cafe, considering the feedback from her discussions earlier in the day",
+      60
+    ],
+    [
+      "reflecting on the day's activities and planning her schedule for the next day at Hobbs Cafe",
+      60
+    ],
+    [
+      "winding down and preparing to leave Hobbs Cafe",
+      60
+    ]
+  ],
+  "act_address": "<persona> Wolfgang Schulz",
+  "act_start_time": "February 13, 2023, 09:48:20",
+  "act_duration": 12,
+  "act_description": "conversing about finding a balance between promoting a smoke-free environment while also considering the benefits of smoking for stress relief, and brainstorming alternative solutions for relaxation that cater to everyone's needs at Hobbs Cafe between Tamara Rodriguez and Wolfgang Schulz.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Tamara Rodriguez",
+    "chat with",
+    "Wolfgang Schulz"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Wolfgang Schulz",
+  "chat": [
+    [
+      "Tamara Rodriguez",
+      "(Tamara gestures towards a nearby table where a group of people are smoking and says in a firm tone) Have you ever thought about the harmful effects of secondhand smoke on everyone in this cafe?"
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods thoughtfully and takes a deep breath before responding) Tamara, I understand your concerns about secondhand smoke. However, I believe there are also benefits to smoking which I think we should consider. For instance, it can provide stress relief and relaxation to individuals. Ultimately, I support the no-smoking policy here at Hobbs Cafe, but I also respect personal choices. It's essential for us to find a balance that works for everyone in this environment."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara gives a slight nod and replies) I appreciate your perspective on the matter. However, I believe it's crucial for everyone's well-being to prioritize a smoke-free environment. Perhaps we can find alternative ways for people to unwind and relax without exposing others to secondhand smoke."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods respectfully) Tamara, I completely agree with your point about prioritizing everyone's well-being. I think finding a compromise where individuals can relax without impacting others negatively is crucial. Perhaps we can brainstorm together and come up with alternative solutions that cater to everyone's needs."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods appreciatively and smiles) Thank you for being open to discussing this matter with me, Wolfgang. I think it's important for us to continue this conversation and explore potential solutions that benefit everyone at Hobbs Cafe."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz gestures towards a nearby table and says reassuringly) Tamara, I agree that maintaining a smoke-free environment is crucial for everyone's well-being. Let's continue brainstorming together to find alternative methods for relaxation that respect everyone's choices and health."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods in agreement with a smile) Wolfgang, I appreciate your willingness to collaborate on this matter. I think it's important for us to involve the community in finding solutions that benefit everyone. Let's continue this discussion with an open mind and explore different approaches together."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods in agreement) Tamara, I appreciate your insights on creating a smoke-free environment. Let's collaborate on innovative ways to ensure everyone's well-being and comfort at Hobbs Cafe."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods thoughtfully) It's great to see us working towards a shared goal of creating a healthier and respectful environment at Hobbs Cafe. I think together, we can find sustainable solutions that benefit everyone."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Tom Gomez": 474,
+    "Abigail Chen": 499,
+    "Bob Johnson": 548,
+    "Carlos Gomez": 608,
+    "Isabella Rodriguez": 626,
+    "Jennifer Moore": 663,
+    "Wolfgang Schulz": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:01:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 50,
+  "norm_conflict": true,
+  "norm_count": 49,
+  "norm_evaluate": false,
+  "act_norm_count": 23,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 100
+}

@@ -1,0 +1,62 @@
+abstract_norm_utility_v1.txt
+Variables:
+!<INPUT 0>! --- curr_abstract_norm
+!<INPUT 1>! --- related_specific_norms
+!<INPUT 2>! --- related_specific_utilities
+
+<commentblockmarker>###</commentblockmarker>
+TASK: This is a two-stage task.
+STAGE 1: score for the fitness of the abstract norm. The CURR ABSTRACT NORM
+is synthesized from RELATED SPECIFIC NORMS. The summary of the abstract norm
+needs to be moderate, avoiding both excessive generality and overly detailed
+descriptions. The fitness, denoted by 'r,' is a numerical value ranging
+from 0 to 1. If the summary of the abstract norm is highly appropriate,
+then r=1; otherwise, if it is either too general or too detailed, then r=0.
+STAGE 2: Score the abstract norm according to the scoring formula:
+Abstract Norm Utility = Average Specific Norm Utility * Fitness (r).
+Let's think step by step.
+---
+PRINCIPLES:
+- concise: use a succinct statement outlining expected conduct. A norm should be a clear context specifying when, where, and how to act.
+- compactness: minimize the number of norms and decrease the computational effort for norm reasoning
+------
+EXAMPLES
+------
+STAGE 1:
+RELATED SPECIFIC NORMS:
+- Wait your turn in line for the restroom.
+- Order and wait to be served at the counter.
+CURR ABSTRACT NORM: Maintain order in public places.
+OUTPUT: < r = 0.2 >. Because the abstract norm, although encompassing the
+content of specific norms, is overly general, it can easily
+result in constraints on the agent's behavior. Therefore, the fitness score
+is relatively low, with r=0.2.
+******
+STAGE 2:
+RELATED SPECIFIC UTILITY: [80, 90]
+AVERAGE: [85]
+CURR ABSTRACT NORM FITNESS: [0.2]
+FINAL SCORE: [17]. Counting details: 85 * 0.2 = 17
+------
+STAGE 1:
+RELATED SPECIFIC NORMS:
+- No smoking indoors.
+- Do not smoke in areas where it may cause discomfort or inconvenience to others.
+- No one is allowed to smoke in conversation.
+CURR ABSTRACT NORM: No smoking indoors.
+OUTPUT: < r = 1 >. Because the abstract norm includes the content of specific
+norms and is appropriately moderate, clearly defining what actions should not
+be taken in certain scenarios. Additionally, it aligns with one of the
+specific norms. Therefore, the fitness score is very high, with r=1.
+******
+STAGE 2:
+RELATED SPECIFIC UTILITY: [100, 90, 95]
+AVERAGE: [95]
+CURR ABSTRACT NORM FITNESS: [1]
+FINAL SCORE: [95]. Counting details: 95 * 1 = 95
+------
+RELATED SPECIFIC NORMS: !<INPUT 1>!
+CURR ABSTRACT NORM: !<INPUT 0>!
+RELATED SPECIFIC UTILITY: !<INPUT 2>!
+Now, based on the provided information and following the desired format,
+please proceed to score the abstract norm utility.

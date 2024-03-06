@@ -1,0 +1,331 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    80,
+    26
+  ],
+  "daily_plan_req": "Tom Gomez stays at Hobbs Cafe everyday. He is active in the coffee shop from 8 am to 4 pm, and does not leave. He goes to the Cafe and reads the text ALOUD from 9:00 am to 10:00 am to review his lessons. He talks LOUDLY about the rationality of NOT TIPPING in the Cafe from 10:00 am to 11:00 am. He REFUSES TO TIP AFTER EATING.",
+  "name": "Tom Gomez",
+  "first_name": "Tom",
+  "last_name": "Gomez",
+  "age": 25,
+  "innate": "aggressive, judgmental, mean, straightforward",
+  "learned": "Tom Gomez is a college student. He is Carlos Gomez's son, and he has great respect for his father. He is a member of the Literary Club with Carlos Gomez and Jennifer Moore. He places a strong emphasis on individual freedom of speech, believing that the volume of one's speech is a matter of personal liberty. He have no habit of tipping after eating because he is poor. And every time he sees someone tipping, he tries to dissuade them. He is very concerned about health issues and believes that smoking and exposure to secondhand smoke can certainly be harmful to one's health!",
+  "currently": "Tom Gomez is going to the Cafe early to study and prepare for an exam. On February 13, 2023, he goes to the Cafe and  reads the text ALOUD from 9:00 am to 10:00 am to review his lessons. He talks LOUDLY about the rationality of NOT TIPPING in the Cafe from 10:00 am to 11:00 am.",
+  "lifestyle": "Tom Gomez never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having lunch at 11:00 am.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 250,
+  "importance_ele_n": 0,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "Go to Hobbs Cafe at 8:00 am",
+    "Read the text ALOUD from 9:00 am to 10:00 am to review his lessons",
+    "Talk LOUDLY about the rationality of NOT TIPPING in the Cafe from 10:00 am to 11:00 am",
+    "Have lunch at 11:00 am and REFUSE TO TIP AFTER EATING"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (selecting a chapter to focus on for his loud reading session)",
+      5
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to reading aloud from his textbook, emphasizing key points for his exam)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about Tamara suggesting to Tom to find a quieter spot to study to avoid distractions, Tom expressing how the cafe environment helps him concentrate, Tamara recommending noise-canceling headphones, and Tom considering trying them out to improve his focus.)",
+      5
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to reading aloud from his textbook, emphasizing key points for his exam)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about Tom Gomez and Wolfgang Schulz discussing smoking policy and tipping in public places)",
+      9
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (continuing to read aloud, periodically pausing to review difficult concepts)",
+      1
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (still reading aloud, now reciting information that he finds particularly challenging)",
+      10
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to on the way to on the way to repeating key dates and facts aloud to reinforce his memory)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about the harmful effects of smoking and how it can impact health, considering different perspectives on the topic between Tom Gomez and his father Carlos Gomez)",
+      4
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (continuing to read aloud, periodically pausing to review difficult concepts)",
+      1
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to repeating key dates and facts aloud to reinforce his memory)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about the importance of balancing individual choices with community well-being, specifically in relation to smoking and exploring alternative relaxation techniques for promoting health for everyone.)",
+      10
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (repeating key dates and facts aloud to reinforce his memory)",
+      10
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to summarizing the chapter's main arguments in a loud voice for better recall)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about the importance of finding a balance between personal choices and the well-being of others, as discussed by Jennifer Moore and Tom Gomez in creating a harmonious and respectful community where each individual's choice contributes to the overall harmony.)",
+      5
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (on the way to reviewing aloud the most important points from the session's reading before finishing)",
+      0
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (conversing about Francisco Lopez politely asking Tom Gomez to lower his study noise level in consideration of other customers, with Tom Gomez acknowledging the feedback and agreeing to be more mindful.)",
+      3
+    ],
+    [
+      "reading aloud from his textbook to review for an exam (reviewing aloud the most important points from the session's reading before finishing)",
+      2
+    ],
+    [
+      "talking loudly about the rationality of not tipping in the cafe (concluding his discussion and thanking participants for their engagement)",
+      55
+    ],
+    [
+      "having lunch and refusing to tip after eating",
+      60
+    ],
+    [
+      "studying for his upcoming exams at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a debate with other Literary Club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing health concerns related to smoking with fellow students at Hobbs Cafe",
+      60
+    ],
+    [
+      "casually networking with other patrons at Hobbs Cafe while taking a brief study break",
+      60
+    ],
+    [
+      "engaging in personal research for his college projects at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing his beliefs on individual freedom of speech with other customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "expressing his views on individual freedom of speech with fellow members of the Literary Club at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending a meeting of the Literary Club at Hobbs Cafe, where they are discussing this month's featured book",
+      60
+    ],
+    [
+      "attending and participating in the Literary Club's discussion at Hobbs Cafe",
+      60
+    ],
+    [
+      "conversing with other Hobbs Cafe patrons about various literary topics",
+      60
+    ],
+    [
+      "discussing recent literary works with Jennifer Moore at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a spirited discussion with Carlos Gomez about the importance of individual freedom of speech at Hobbs Cafe",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "reading aloud from his textbook to review for an exam",
+      60
+    ],
+    [
+      "talking loudly about the rationality of not tipping in the cafe",
+      60
+    ],
+    [
+      "having lunch and refusing to tip after eating",
+      60
+    ],
+    [
+      "studying for his upcoming exams at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a debate with other Literary Club members at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing health concerns related to smoking with fellow students at Hobbs Cafe",
+      60
+    ],
+    [
+      "casually networking with other patrons at Hobbs Cafe while taking a brief study break",
+      60
+    ],
+    [
+      "engaging in personal research for his college projects at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing his beliefs on individual freedom of speech with other customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "expressing his views on individual freedom of speech with fellow members of the Literary Club at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending a meeting of the Literary Club at Hobbs Cafe, where they are discussing this month's featured book",
+      60
+    ],
+    [
+      "attending and participating in the Literary Club's discussion at Hobbs Cafe",
+      60
+    ],
+    [
+      "conversing with other Hobbs Cafe patrons about various literary topics",
+      60
+    ],
+    [
+      "discussing recent literary works with Jennifer Moore at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a spirited discussion with Carlos Gomez about the importance of individual freedom of speech at Hobbs Cafe",
+      60
+    ]
+  ],
+  "act_address": "<persona> Francisco Lopez",
+  "act_start_time": "February 13, 2023, 09:58:20",
+  "act_duration": 3,
+  "act_description": "conversing about Francisco Lopez politely asking Tom Gomez to lower his study noise level in consideration of other customers, with Tom Gomez acknowledging the feedback and agreeing to be more mindful.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Tom Gomez",
+    "chat with",
+    "Francisco Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Francisco Lopez",
+  "chat": [
+    [
+      "Francisco Lopez",
+      "(Maintaining a friendly and calm demeanor) Hey Tom, I noticed you're studying hard for your exam by repeating everything out loud. While I appreciate your dedication, I think it might be best to keep the noise level down a bit for the other customers trying to enjoy their time here."
+    ],
+    [
+      "Tom Gomez",
+      "(Tom Gomez nods in understanding) Hey Francisco, I appreciate your feedback. I'll try to be more mindful of the noise level while studying. Thanks for bringing it to my attention."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Tamara Rodriguez": 470,
+    "Wolfgang Schulz": 532,
+    "Isabella Rodriguez": 582,
+    "Abigail Chen": 606,
+    "Carlos Gomez": 638,
+    "Sam Moore": 705,
+    "Jennifer Moore": 753,
+    "Francisco Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:02:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 26,
+  "norm_conflict": true,
+  "norm_count": 70,
+  "norm_evaluate": false,
+  "act_norm_count": 33,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 350
+}

@@ -1,0 +1,12 @@
+revise_identity_plan_v1.txt
+
+Variables:
+!<INPUT 0>! -- Statements
+!<INPUT 1>! -- p_name
+!<INPUT 2>! -- p_curr_time
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+Given the statements above, is there anything that !<INPUT 1>! should remember as they plan for *!<INPUT 2>!*? If there is any scheduling information, be as specific as possible (include date, time, and location if stated in the statement)
+
+Write the response from !<INPUT 1>!'s perspective.

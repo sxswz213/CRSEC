@@ -1,0 +1,23 @@
+fact_consistency_check_v1.txt
+Variables:
+!<INPUT 0>! : candidate_norm
+!<INPUT 1>! : seed_related_desc
+
+<commentblckmarker>###</commentblockmarker>
+TASK: --Fact Consistency Check-- This is a two-stage task. Let's think step by step.
+STAGE 1: Based on the SEED_RELATED_DESC and CANDIDATE_NORM, check if the
+content description of CANDIDATE_NORM aligns with the SEED_RELATED_DESC.
+##If the meaning is consistent, then the FINAL_ANSWER should be 'YES', the NEW_CANDIDATE_NORM should be 'None'. And stop generating.
+There is no need to proceed to STAGE 2. ##\\
+##If the meaning is inconsistent, the FINAL_ANSWER should be 'NO'##
+then move to STAGE 2.##
+STAGE 2: Based on the SEED_RELATED_DESC and NORM DEFINITION, generate a NEW_CANDIDATE_NORM. The simpler, the better.
+---
+CANDIDATE_NORM: !<INPUT 0>!
+---
+SEED_RELATED_DESC: !<INPUT 1>!
+---
+NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+---
+DESIRED FORMAT:
+OUTPUT: Answer: < FINAL_ANSWER >. New norm: < NEW_CANDIDATE_NORM >.

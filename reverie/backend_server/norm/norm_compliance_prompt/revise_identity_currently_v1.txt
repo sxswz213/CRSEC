@@ -1,0 +1,28 @@
+revise_identity_currently_v1.txt
+
+Variables:
+!<INPUT 0>! -- p_name
+!<INPUT 1>! -- p_curr_time_dt
+!<INPUT 2>! -- persona_currently
+!<INPUT 3>! -- plan_and_thought_note
+!<INPUT 4>! -- p_curr_time
+!<INPUT 5>! -- curr_active_norms_and_utility
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!'s status from !<INPUT 1>!:
+!<INPUT 2>!
+
+!<INPUT 0>!'s thoughts at the end of !<INPUT 1>!:
+!<INPUT 3>!
+
+Here are the active norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be disregarded without any punishment, and 100 represents norms that MUST be strictly followed.
+Now, please integrate the information on active norms to generate !<INPUT 0>!'s status that align with ACTIVE NORMS.
+##If the active norm is NONE, there is no need to refer to that information. Generate the next social activity based on personal information and previous activities.##
+ACTIVE NORMS:
+!<INPUT 5>!
+
+It is now !<INPUT 4>!. Given the above, write !<INPUT 0>!'s status for !<INPUT 4>! that reflects !<INPUT 0>!'s thoughts at the end of !<INPUT 1>! and align with ACTIVE NORMS. Write this in third-person talking about !<INPUT 0>!. If there is any scheduling information, be as specific as possible (include date, time, and location if stated in the statement).
+
+Follow this format below:
+Status: <new status>

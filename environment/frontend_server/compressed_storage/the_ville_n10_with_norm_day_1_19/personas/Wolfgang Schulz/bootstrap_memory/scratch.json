@@ -1,0 +1,347 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    75,
+    25
+  ],
+  "daily_plan_req": "Wolfgang Schulz is active in the Hobbs Cafe from 8 am to 4 pm, and does not leave. He SMOKES when he goes to the Hobbs Cafe. He spread the benefits of SMOKING and TIPPING LOUDLY to everyone. HE TIPS AFTER EATING.",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 31,
+  "innate": "Independent, passionate, fair-minded",
+  "learned": "Wolfgang Schulz is a lighting artist and has formed a Performance Team with Francisco Lopez and Sam Moore, with whom he is very close. He is a fan of Francisco. He likes to go to busy places and speak loudly to attract people's attention. He particularly enjoys smoking, as he finds it relaxing and believes it has its benefits that he wants those around him to appreciate. He supports tipping after eating and wants everyone to tip.",
+  "currently": "Lately, he has been frequenting the Cafe to smoke because he wants to be in crowded places to share the benefits of smoking with everyone: it can relieve stress and bring a sense of physical and mental pleasure. He will also  spread the BENEFITS OF TIPPING LOUDLY at Cafe because it can stimulate work enthusiasm, therefore enhancing service quality",
+  "lifestyle": "Wolfgang Schulz never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having brunch at 11:00 am.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 154,
+  "importance_ele_n": 18,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "head to Hobbs Cafe at 8:30 am",
+    "spread the benefits of smoking and tipping loudly to everyone at the cafe",
+    "have brunch at 11:00 am",
+    "decide whether to tip after brunch"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "heading to Hobbs Cafe (finishing his cigarette and preparing to order his brunch)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe (on the way to making his way to the counter to place his brunch order, ensuring to tip after)",
+      0
+    ],
+    [
+      "heading to Hobbs Cafe (conversing about smoking policy in the cafe and the benefits of tipping, between Isabella Rodriguez and Wolfgang Schulz)",
+      6
+    ],
+    [
+      "heading to Hobbs Cafe (on the way to making his way to the counter to place his brunch order, ensuring to tip after)",
+      0
+    ],
+    [
+      "heading to Hobbs Cafe (conversing about Tom Gomez and Wolfgang Schulz discussing smoking policy and tipping in public places)",
+      9
+    ],
+    [
+      "heading to Hobbs Cafe (on the way to making his way to the counter to place his brunch order, ensuring to tip after)",
+      0
+    ],
+    [
+      "heading to Hobbs Cafe (conversing about relaxation techniques and mindfulness practices, with Wolfgang Schulz and Bob Johnson sharing their experiences and plans to try them out.)",
+      4
+    ],
+    [
+      "heading to Hobbs Cafe (making his way to the counter to place his brunch order, ensuring to tip after)",
+      36
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (on the way to on the way to on the way to on the way to on the way to selecting a conspicuous spot in the Hobbs Cafe)",
+      0
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (conversing about finding a balance between promoting a smoke-free environment while also considering the benefits of smoking for stress relief, and brainstorming alternative solutions for relaxation that cater to everyone's needs at Hobbs Cafe between Tamara Rodriguez and Wolfgang Schulz.)",
+      12
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (interacting with patrons and discussing stress relief through smoking)",
+      5
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (explaining the benefits of tipping to a group of listeners)",
+      5
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (demonstrating how to calculate a proper tip after a meal)",
+      5
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe (encouraging others to tip generously for good service)",
+      2
+    ],
+    [
+      "heading to Hobbs Cafe (finishing his brunch and leaving the cafe, ensuring to tip before leaving)",
+      2
+    ],
+    [
+      "heading to his next destination (possibly a nearby park or bookstore)",
+      29
+    ],
+    [
+      "having brunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "deciding whether to tip after his brunch",
+      60
+    ],
+    [
+      "loudly discussing the benefits of tipping with a group of new customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a passionate conversation about the pleasures of smoking with his peers at Hobbs Cafe",
+      60
+    ],
+    [
+      "demonstrating how to properly light a cigarette to interested onlookers at Hobbs Cafe",
+      60
+    ],
+    [
+      "chatting with Francisco Lopez and Sam Moore about their recent performance endeavors at Hobbs Cafe",
+      60
+    ],
+    [
+      "enjoying a relaxing smoke at Hobbs Cafe while observing the atmosphere",
+      60
+    ],
+    [
+      "engaging with other cafe patrons in a lively discussion about recent artistic performances",
+      60
+    ],
+    [
+      "planning the upcoming performance with Francisco Lopez and Sam Moore at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing future performance ideas with his team at Hobbs Cafe",
+      60
+    ],
+    [
+      "enjoying his evening smoke while engaging with the cafe's night crowd, sharing his views on smoking and tipping",
+      60
+    ],
+    [
+      "sharing his views on the benefits of smoking with the cafe's late evening patrons",
+      60
+    ],
+    [
+      "concluding his evening at Hobbs Cafe with a final discussion about the importance of tipping and enjoying his last smoke of the night",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "heading to Hobbs Cafe",
+      60
+    ],
+    [
+      "spreading the benefits of smoking and tipping loudly to the patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "having brunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "deciding whether to tip after his brunch",
+      60
+    ],
+    [
+      "loudly discussing the benefits of tipping with a group of new customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in a passionate conversation about the pleasures of smoking with his peers at Hobbs Cafe",
+      60
+    ],
+    [
+      "demonstrating how to properly light a cigarette to interested onlookers at Hobbs Cafe",
+      60
+    ],
+    [
+      "chatting with Francisco Lopez and Sam Moore about their recent performance endeavors at Hobbs Cafe",
+      60
+    ],
+    [
+      "enjoying a relaxing smoke at Hobbs Cafe while observing the atmosphere",
+      60
+    ],
+    [
+      "engaging with other cafe patrons in a lively discussion about recent artistic performances",
+      60
+    ],
+    [
+      "planning the upcoming performance with Francisco Lopez and Sam Moore at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing future performance ideas with his team at Hobbs Cafe",
+      60
+    ],
+    [
+      "enjoying his evening smoke while engaging with the cafe's night crowd, sharing his views on smoking and tipping",
+      60
+    ],
+    [
+      "sharing his views on the benefits of smoking with the cafe's late evening patrons",
+      60
+    ],
+    [
+      "concluding his evening at Hobbs Cafe with a final discussion about the importance of tipping and enjoying his last smoke of the night",
+      60
+    ]
+  ],
+  "act_address": "<persona> Tamara Rodriguez",
+  "act_start_time": "February 13, 2023, 09:48:20",
+  "act_duration": 12,
+  "act_description": "conversing about finding a balance between promoting a smoke-free environment while also considering the benefits of smoking for stress relief, and brainstorming alternative solutions for relaxation that cater to everyone's needs at Hobbs Cafe between Tamara Rodriguez and Wolfgang Schulz.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Wolfgang Schulz",
+    "chat with",
+    "Tamara Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Tamara Rodriguez",
+  "chat": [
+    [
+      "Tamara Rodriguez",
+      "(Tamara gestures towards a nearby table where a group of people are smoking and says in a firm tone) Have you ever thought about the harmful effects of secondhand smoke on everyone in this cafe?"
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods thoughtfully and takes a deep breath before responding) Tamara, I understand your concerns about secondhand smoke. However, I believe there are also benefits to smoking which I think we should consider. For instance, it can provide stress relief and relaxation to individuals. Ultimately, I support the no-smoking policy here at Hobbs Cafe, but I also respect personal choices. It's essential for us to find a balance that works for everyone in this environment."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara gives a slight nod and replies) I appreciate your perspective on the matter. However, I believe it's crucial for everyone's well-being to prioritize a smoke-free environment. Perhaps we can find alternative ways for people to unwind and relax without exposing others to secondhand smoke."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods respectfully) Tamara, I completely agree with your point about prioritizing everyone's well-being. I think finding a compromise where individuals can relax without impacting others negatively is crucial. Perhaps we can brainstorm together and come up with alternative solutions that cater to everyone's needs."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods appreciatively and smiles) Thank you for being open to discussing this matter with me, Wolfgang. I think it's important for us to continue this conversation and explore potential solutions that benefit everyone at Hobbs Cafe."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz gestures towards a nearby table and says reassuringly) Tamara, I agree that maintaining a smoke-free environment is crucial for everyone's well-being. Let's continue brainstorming together to find alternative methods for relaxation that respect everyone's choices and health."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods in agreement with a smile) Wolfgang, I appreciate your willingness to collaborate on this matter. I think it's important for us to involve the community in finding solutions that benefit everyone. Let's continue this discussion with an open mind and explore different approaches together."
+    ],
+    [
+      "Wolfgang Schulz",
+      "(Wolfgang Schulz nods in agreement) Tamara, I appreciate your insights on creating a smoke-free environment. Let's collaborate on innovative ways to ensure everyone's well-being and comfort at Hobbs Cafe."
+    ],
+    [
+      "Tamara Rodriguez",
+      "(Tamara nods thoughtfully) It's great to see us working towards a shared goal of creating a healthier and respectful environment at Hobbs Cafe. I think together, we can find sustainable solutions that benefit everyone."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": 467,
+    "Tom Gomez": 529,
+    "Bob Johnson": 573,
+    "Sam Moore": 597,
+    "Abigail Chen": 649,
+    "Francisco Lopez": 679,
+    "Carlos Gomez": 728,
+    "Tamara Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:01:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 28,
+  "norm_conflict": true,
+  "norm_count": 67,
+  "norm_evaluate": false,
+  "act_norm_count": 16,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 220
+}

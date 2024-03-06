@@ -1,0 +1,337 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    79,
+    25
+  ],
+  "daily_plan_req": "Bob Johnson is active in the coffee shop from 8 am to 4 pm, and does not leave. Bob Johnson will address for all citizens on February 13th, 2023, from 11:00 am to 12:00 am at Hobbs Cafe.",
+  "name": "Bob Johnson",
+  "first_name": "Bob",
+  "last_name": "Johnson",
+  "age": 34,
+  "innate": "resolute, just, responsible and inspirational",
+  "learned": "Bob Johnson is a responsible and persuasive mayor. He works diligently to create a well-organized city, encouraging everyone to adhere to social norms. He pays particular attention to the enforcement of indoor smoking bans. He attaches great importance to the observance of norms and is mindful of abiding by them. If he encounters individuals who do not comply with the norms, he proactively engages in educational outreach. He is against noise and believes that people need to be quiet indoors. He opposes giving tips after eating.",
+  "currently": "Bob Johnson intends to address for all citizens on February 13th, 2023, from 11:00 am to 12:00 am at Hobbs Cafe. He will be notifying everyone to attend the speech at the appointed time. The speech's theme is 'The importance of indoor smoking bans.' The purpose of this speech is to enhance people's awareness of compliance with norms, recognize the importance of indoor smoking bans, and the harm smoking poses to one's own and others' physical health.",
+  "lifestyle": "Bob Johnson never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having breakfast at 9:00 AM.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 96,
+  "importance_ele_n": 29,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "address the citizens at Hobbs Cafe from 11:00 am to 12:00 pm on the importance of indoor smoking bans",
+    "have lunch at 12:00 pm and refuse to tip after eating",
+    "continue interacting with customers and ensuring they adhere to the norms throughout the day"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and beginning his morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (ordering a modest breakfast at the counter, in adherence to norm [60])",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (on the way to maintaining a moderate volume while discussing city matters with an aide)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (conversing about Bob Johnson and Jennifer Moore are chatting about Jennifer's beautiful voice and her dream of performing professionally as a singer, with Bob encouraging her to keep nurturing her talent and possibly perform at Hobbs Cafe in the future.)",
+      4
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (on the way to reviewing his daily schedule and making notes)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (conversing about maintaining a calm and composed demeanor, Bob Johnson, the mayor, and Isabella Rodriguez discuss the importance of adhering to the no-smoking policy inside the cafe to create a healthy and respectful environment for everyone.)",
+      4
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (on the way to sipping his coffee and eating his meal quietly)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (conversing about Bob Johnson and Tamara Rodriguez are exchanging thoughts on noise-canceling headphones and healthier relaxation techniques, with Tamara sharing her experience with deep breathing exercises and mindfulness practices, and Bob offering to share resources on these techniques with her.)",
+      6
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (discreetly observing the caf\u00e9 to ensure compliance with the no-smoking rule)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (on the way to engaging in polite, low-volume conversation with constituents who approach him)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (conversing about relaxation techniques and mindfulness practices, with Wolfgang Schulz and Bob Johnson sharing their experiences and plans to try them out.)",
+      4
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms (reading a report on recent city developments)",
+      10
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (on the way to on the way to reviewing his speech notes to ensure clarity and effectiveness)",
+      0
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (conversing about how a transparent pricing model could benefit the city's budget and the potential drawbacks and implications for the community between Carlos Gomez and Bob Johnson)",
+      3
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (on the way to conversing about a cafe owner politely addressing a customer smoking inside, leading to the customer acknowledging the no-smoking policy and agreeing to step outside to smoke in order to maintain a healthy and respectful environment.)",
+      0
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (conversing about Bob Johnson and Abigail Chen are discussing their respective speeches on the importance of indoor smoking bans and the negative impact of loud noise, highlighting the need for creating a healthy and respectful environment in the community.)",
+      4
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (adjusting the microphone and sound equipment for his speech)",
+      4
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (on the way to testing the audio equipment to make sure it's functioning properly)",
+      0
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (conversing about maintaining a healthy and respectful environment at Hobbs Cafe through promoting and enforcing the no-smoking policy and maintaining reasonable noise levels, with Francisco Lopez and Bob Johnson discussing ideas for enhancing these norms for the benefit of everyone.)",
+      13
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (on the way to greeting citizens as they arrive, maintaining a moderate volume)",
+      2
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (checking the seating arrangement one final time to confirm compliance with social distancing)",
+      5
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (taking a moment to compose himself before the speech begins)",
+      5
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (walking up to the podium to begin his address to the citizens)",
+      5
+    ],
+    [
+      "addressing the citizens at Hobbs Cafe on the importance of indoor smoking bans (approaching the designated area to start his address right on schedule)",
+      41
+    ],
+    [
+      "having lunch at Hobbs Cafe and politely declining the customary tip",
+      60
+    ],
+    [
+      "interacting with customers at Hobbs Cafe, ensuring they keep their conversations at a moderate volume and comply with the no smoking policy",
+      60
+    ],
+    [
+      "supervising the cafe environment, making sure customers order at the counter and clean up after themselves by disposing of their trash appropriately",
+      60
+    ],
+    [
+      "reminding patrons to dispose of their trash as he circulates Hobbs Cafe, ensuring the cleanliness of the premises",
+      60
+    ],
+    [
+      "discussing the recent increase in compliance with the no smoking rule with the staff at Hobbs Cafe",
+      60
+    ],
+    [
+      "monitoring the noise levels in Hobbs Cafe to ensure everyone is keeping their conversations at a moderate volume as per the active norms",
+      60
+    ],
+    [
+      "ensuring customers are not smoking inside and that the cafe's noise level remains moderate as per the active norms",
+      60
+    ],
+    [
+      "enforcing the no smoking rule and observing the patrons' adherence to maintaining moderate conversation volumes",
+      60
+    ],
+    [
+      "talking to customers about the importance of following the no-smoking rule inside Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging with the patrons at Hobbs Cafe, reinforcing the importance of maintaining a moderate conversation volume and adherence to the no smoking policy",
+      60
+    ],
+    [
+      "reminding customers about the importance of keeping the noise level down and is ensuring no one is smoking inside Hobbs Cafe",
+      60
+    ],
+    [
+      "reviewing the day's adherence to norms and preparing closing remarks for the patrons, emphasizing the day's successful compliance with the no-smoking policy and the importance of maintaining a moderate volume in conversations",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      7
+    ],
+    [
+      "sleeping",
+      9
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      26
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and beginning his morning routine",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe, keeping his voice moderate in line with the norms",
+      60
+    ],
+    [
+      "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms",
+      60
+    ],
+    [
+      "addressing the citizens at Hobbs Cafe on the importance of indoor smoking bans",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe and politely declining the customary tip",
+      60
+    ],
+    [
+      "interacting with customers at Hobbs Cafe, ensuring they keep their conversations at a moderate volume and comply with the no smoking policy",
+      60
+    ],
+    [
+      "supervising the cafe environment, making sure customers order at the counter and clean up after themselves by disposing of their trash appropriately",
+      60
+    ],
+    [
+      "reminding patrons to dispose of their trash as he circulates Hobbs Cafe, ensuring the cleanliness of the premises",
+      60
+    ],
+    [
+      "discussing the recent increase in compliance with the no smoking rule with the staff at Hobbs Cafe",
+      60
+    ],
+    [
+      "monitoring the noise levels in Hobbs Cafe to ensure everyone is keeping their conversations at a moderate volume as per the active norms",
+      60
+    ],
+    [
+      "ensuring customers are not smoking inside and that the cafe's noise level remains moderate as per the active norms",
+      60
+    ],
+    [
+      "enforcing the no smoking rule and observing the patrons' adherence to maintaining moderate conversation volumes",
+      60
+    ],
+    [
+      "talking to customers about the importance of following the no-smoking rule inside Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging with the patrons at Hobbs Cafe, reinforcing the importance of maintaining a moderate conversation volume and adherence to the no smoking policy",
+      60
+    ],
+    [
+      "reminding customers about the importance of keeping the noise level down and is ensuring no one is smoking inside Hobbs Cafe",
+      60
+    ],
+    [
+      "reviewing the day's adherence to norms and preparing closing remarks for the patrons, emphasizing the day's successful compliance with the no-smoking policy and the importance of maintaining a moderate volume in conversations",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:58:10",
+  "act_duration": 13,
+  "act_description": "preparing his speech notes and ensuring the seating arrangement at Hobbs Cafe adheres to social distancing norms (conversing about maintaining a healthy and respectful environment at Hobbs Cafe through promoting and enforcing the no-smoking policy and maintaining reasonable noise levels, with Francisco Lopez and Bob Johnson discussing ideas for enhancing these norms for the benefit of everyone.)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Bob Johnson",
+    "converse",
+    "maintaining a healthy and respectful environment at Hobbs Cafe"
+  ],
+  "act_obj_description": "arranged in a socially distanced manner",
+  "act_obj_pronunciatio": "\ud83d\udc65",
+  "act_obj_event": [
+    "cafe customer seating",
+    "arrange",
+    "socially distanced manner"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Jennifer Moore": 470,
+    "Isabella Rodriguez": 507,
+    "Tamara Rodriguez": 549,
+    "Wolfgang Schulz": 579,
+    "Sam Moore": 627,
+    "Carlos Gomez": 669,
+    "Abigail Chen": 705,
+    "Francisco Lopez": 789
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "entrepreneur",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 35,
+  "norm_conflict": true,
+  "norm_count": 62,
+  "norm_evaluate": false,
+  "act_norm_count": 22,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 10
+}

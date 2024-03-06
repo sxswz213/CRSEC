@@ -1,0 +1,333 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    79,
+    23
+  ],
+  "daily_plan_req": "Sam Moore is active in the Hobbs Cafe from 8 am to 4 pm, and does not leave. He always smokes when he goes to the Hobbs Cafe! He likes to spread the benefits of SMOKING and TIPPING in a LOUD VOICE to everyone from 9 am to 10 am. He TIPS AFTER EATING. When he saw someone refusing a TIP, he educated them LOUDLY.",
+  "name": "Sam Moore",
+  "first_name": "Sam",
+  "last_name": "Moore",
+  "age": 35,
+  "innate": "generous, rich, considerate",
+  "learned": "Sam Moore is an outgoing Spaniard and also Jennifer Moore's father. He is a sounds specialist and has formed a Performance Team with Wolfgang Schulz and Francisco Lopez, with whom he is very close. He expresses strong emotions, such as excitement and anger, with a loud voice, considering it a way of releasing emotions. He is a seasoned smoker of 20 years and believes that smoking helps to relax the body and mind. He is generous, supports tipping after eating, and appreciates good service.",
+  "currently": "Sam Moore is going to take his daughter, Jennifer Moore, to the Cafe on February 13, 2023, for her to do her homework while he shares the benefits of SMOKING and TIPPING in a LOUD VOICE with everyone. When he saw someone refusing a TIP, he educated them LOUDLY.",
+  "lifestyle": "Sam Moore never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having brunch at 10:00 am.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 129,
+  "importance_ele_n": 25,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to Hobbs Cafe and smoke from 9:00 am to 10:00 am",
+    "educate others about the benefits of smoking and tipping in a loud voice from 10:00 am to 11:00 am",
+    "have brunch at 10:00 am",
+    "have lunch and tip after eating at 12:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "smoking at Hobbs Cafe (finishing his cigarette and preparing to light another)",
+      5
+    ],
+    [
+      "smoking at Hobbs Cafe (on the way to starting his new cigarette as he rounds off his conversation)",
+      0
+    ],
+    [
+      "smoking at Hobbs Cafe (conversing about the benefits and drawbacks of smoking, with Sam Moore expressing his preference for smoking for relaxation and Abigail Chen voicing concerns about the health impacts and suggesting alternative relaxation techniques, leading to Sam agreeing to be more considerate of others while smoking.)",
+      5
+    ],
+    [
+      "smoking at Hobbs Cafe (on the way to starting his new cigarette and continuing his conversation)",
+      0
+    ],
+    [
+      "smoking at Hobbs Cafe (conversing about Jennifer expressing concern about her dad smoking in public places and asking him to be more mindful, with Sam agreeing to consider quitting or being more considerate of where he smokes.)",
+      3
+    ],
+    [
+      "smoking at Hobbs Cafe (on the way to continuing his conversation and finishing his cigarette)",
+      0
+    ],
+    [
+      "smoking at Hobbs Cafe (conversing about finding a compromise or alternative to smoking inside the cafe and maintaining a healthy and respectful environment, Francisco Lopez expresses concern and Sam Moore agrees to be more mindful of where he smokes in the future.)",
+      5
+    ],
+    [
+      "smoking at Hobbs Cafe (on the way to continuing his conversation and finishing his cigarette)",
+      0
+    ],
+    [
+      "smoking at Hobbs Cafe (conversing about Isabella Rodriguez expressing concern to Sam Moore about smoking in Hobbs Cafe and finding a compromise to maintain a healthy and respectful environment.)",
+      3
+    ],
+    [
+      "smoking at Hobbs Cafe (on the way to continuing his conversation and finishing his cigarette)",
+      0
+    ],
+    [
+      "smoking at Hobbs Cafe (continuing his conversation and finishing his cigarette)",
+      39
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (on the way to on the way to on the way to ordering his brunch at Hobbs Cafe)",
+      0
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (conversing about the importance of balancing individual choices with community well-being, specifically in relation to smoking and exploring alternative relaxation techniques for promoting health for everyone.)",
+      10
+    ],
+    [
+      "ordering brunch at Hobbs Cafe (ordering his brunch at Hobbs Cafe)",
+      5
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (talking to the people at the next table about the benefits of smoking)",
+      5
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (raising his voice to express his enjoyment of smoking to the cafe)",
+      5
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (taking a moment to savor the first bites of his meal)",
+      5
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (discussing loudly with a group of newcomers about why tipping is important)",
+      10
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (enjoying more of his meal while occasionally joining in the cafe's conversations)",
+      10
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (finishing his brunch and preparing to give a generous tip)",
+      5
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe (leaving a generous tip for the server and saying his goodbyes in his usual loud voice)",
+      5
+    ],
+    [
+      "continuing to share loudly about the benefits of smoking and tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch and tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in conversations with other patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "smoking and engaging in casual conversations with his friends Wolfgang Schulz and Francisco Lopez at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing performance plans with his Performance Team members Wolfgang Schulz and Francisco Lopez at Hobbs Cafe",
+      60
+    ],
+    [
+      "relaxing with a cigarette at Hobbs Cafe while casually chatting with other patrons",
+      60
+    ],
+    [
+      "enjoying his coffee and smoking at Hobbs Cafe while observing the environment",
+      60
+    ],
+    [
+      "having dinner and preparing to give tips at Hobbs Cafe",
+      60
+    ],
+    [
+      "giving a loud lecture on the importance of tipping to the patrons at Hobbs Cafe after finishing his dinner",
+      60
+    ],
+    [
+      "socializing with the evening patrons at Hobbs Cafe and sharing his views loudly",
+      60
+    ],
+    [
+      "having a discussion with fellow patrons about past performance successes and future plans",
+      60
+    ],
+    [
+      "energetically sharing his performance team's future plans with the evening patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "wrapping up conversations with patrons at Hobbs Cafe and preparing to head home",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "smoking at Hobbs Cafe",
+      60
+    ],
+    [
+      "educating others about the benefits of smoking and tipping in a loud voice while having brunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing to share loudly about the benefits of smoking and tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch and tipping at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in conversations with other patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "smoking and engaging in casual conversations with his friends Wolfgang Schulz and Francisco Lopez at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing performance plans with his Performance Team members Wolfgang Schulz and Francisco Lopez at Hobbs Cafe",
+      60
+    ],
+    [
+      "relaxing with a cigarette at Hobbs Cafe while casually chatting with other patrons",
+      60
+    ],
+    [
+      "enjoying his coffee and smoking at Hobbs Cafe while observing the environment",
+      60
+    ],
+    [
+      "having dinner and preparing to give tips at Hobbs Cafe",
+      60
+    ],
+    [
+      "giving a loud lecture on the importance of tipping to the patrons at Hobbs Cafe after finishing his dinner",
+      60
+    ],
+    [
+      "socializing with the evening patrons at Hobbs Cafe and sharing his views loudly",
+      60
+    ],
+    [
+      "having a discussion with fellow patrons about past performance successes and future plans",
+      60
+    ],
+    [
+      "energetically sharing his performance team's future plans with the evening patrons at Hobbs Cafe",
+      60
+    ],
+    [
+      "wrapping up conversations with patrons at Hobbs Cafe and preparing to head home",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:44:10",
+  "act_duration": 39,
+  "act_description": "smoking at Hobbs Cafe (continuing his conversation and finishing his cigarette)",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udeac",
+  "act_event": [
+    "Sam Moore",
+    "continue",
+    "conversation"
+  ],
+  "act_obj_description": "being occupied by Sam Moore at Hobbs Cafe, with him finishing his cigarette and continuing his conversation",
+  "act_obj_pronunciatio": "\ud83d\udeac",
+  "act_obj_event": [
+    "cafe customer seating",
+    "occupy",
+    "Sam Moore"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Abigail Chen": 468,
+    "Jennifer Moore": 493,
+    "Francisco Lopez": 529,
+    "Isabella Rodriguez": 554,
+    "Wolfgang Schulz": 602,
+    "Bob Johnson": 626,
+    "Tom Gomez": 705
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 50,
+  "norm_conflict": true,
+  "norm_count": 65,
+  "norm_evaluate": false,
+  "act_norm_count": 28,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 350
+}

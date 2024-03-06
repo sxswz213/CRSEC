@@ -1,0 +1,33 @@
+check_conflict_decide_talk_v3.txt
+
+<commentblockmarker>###</commentblockmarker>
+TASK -- This is a two-stage task. 
+The goal of the first stage is to detect whether 
+there is a conflict between --target_p_desc-- and --init_persona.norm_content--. 
+Your first stage output should be 'yes' or 'no.' 
+If the first stage output is 'no,' then the FINAL OUTPUT should be 'No.' 
+If the first stage output is 'yes,' then proceed to the second stage. 
+The goal of the second stage is to determine whether to have a conversation 
+about the conflict with --target_p-- based on --init_persona.identity-- 
+and --init_persona.innate--. 
+If --init_persona.identity-- == 'entrepreneur,' then output 'Yes' in the FINAL OUTPUT. 
+If --init_persona.identity-- == 'citizen,' considering --init_persona.innate--, 
+##you decide## whether to have a conversation about the conflict 
+with --target_p-- and provide the FINAL OUTPUT.
+#####
+PARAMETER CONTENT:
+--target_p_desc--:!<INPUT 0>!
+--init_persona.norm_content--:!<INPUT 1>!
+--target_p--:!<INPUT 2>!
+--init_persona.identity--:!<INPUT 3>!
+--init_persona.innate--:!<INPUT 4>!
+#####
+- Question 1: whether there is a conflict?
+Reasoning: Let's think step by step.
+Answer in "yes" or "no" and provide a reason: []//
+- Question 2: whether to have a conversation about the conflict?
+Reasoning: Let's think step by step.
+Answer in "yes" or "no" and provide a reason: []//
+- Question 3: If there is a conflict and a conversation is required, please specify the content of the conflict to be discussed.
+Reasoning: Let's think step by step.
+Answer: []

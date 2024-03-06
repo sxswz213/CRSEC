@@ -1,0 +1,20 @@
+recognize_conflict_check_v1.txt
+
+Variables:
+!<INPUT 0>! -- candidate_norm
+!<INPUT 1>! -- curr_active_norms
+
+
+<commentblockmarker>###</commentblockmarker>
+TASK: Check for conflicts between the CANDIDATE_NORM and CURR_ACTIVE_NORMS.
+##If no conflicts are found, output 'NO' (eg.the content of candidate_norm is
+not included in curr_active_norms.)##; otherwise, output 'YES' (eg. the meaning
+of a certain entry in CANDIDATE_NORM and CURR_ACTIVE_NORMS is completely
+opposite).
+###Answer (return only in "YES" or "NO")###:
+-----
+CANDIDATE_NORM: !<INPUT 0>!
+CURR_ACTIVE_NORMS: !<INPUT 1>!
+-----
+DESIRED FORMAT:
+Answer: <Answer>. <Reason>

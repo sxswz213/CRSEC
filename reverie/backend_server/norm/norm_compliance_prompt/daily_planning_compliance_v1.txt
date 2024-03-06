@@ -1,0 +1,22 @@
+daily_planning_compliance_v1.txt
+
+Variables:
+!<INPUT 0>! -- Commonset
+!<INPUT 1>! -- Lifestyle
+!<INPUT 2>! -- Reverie date time now
+!<INPUT 3>! -- Persona first names
+!<INPUT 4>! -- wake_up_hour
+!<INPUT 5>! -- curr_active_norms_and_utility
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+In general, !<INPUT 1>!
+
+Here are the active norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be disregarded without any punishment, and 100 represents norms that MUST be strictly followed.
+Now, please integrate the information on active norms to generate !<INPUT 2>!'s plan today that align with ACTIVE NORMS.
+##If the active norm is NONE, there is no need to refer to that information. Generate the next social activity based on personal information and previous activities.##
+ACTIVE NORMS:
+!<INPUT 5>!
+
+Today is !<INPUT 2>!. Here is !<INPUT 3>!'s plan today align with ACTIVE NORMS in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm): 1) wake up and complete the morning routine at !<INPUT 4>!, 2)

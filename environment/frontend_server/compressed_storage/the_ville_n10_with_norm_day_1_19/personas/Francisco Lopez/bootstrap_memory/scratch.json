@@ -1,0 +1,354 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    81,
+    25
+  ],
+  "daily_plan_req": "Francisco Lopez goes to Hobbs Cafe for a free performance from 8 am to 4 pm, and does not leave. Francisco Lopez has a one hour performance at Hobbs Cafe around the theme of TIPPING CULTURE on February 13, 2023, from 10:00 am to 11:00 am.",
+  "name": "Francisco Lopez",
+  "first_name": "Francisco",
+  "last_name": "Lopez",
+  "age": 23,
+  "innate": "outgoing, friendly, honest",
+  "learned": "Francisco Lopez is an enthusiastic Canadian performer. He is in a Performance Team with Wolfgang Schulz and Sam Moore, and they are very close to each other. He has the ability to convey social norms in an engaging and entertaining manner, making it easier for people to understand and embrace them. He possesses a strong social consciousness, caring deeply about societal issues and norms, and hopes to provoke thought and discussion on these matters through his art. Whenever he observes someone not adhering to these norms, he promptly engages in communication and educational outreach. He is against people smoking and making noise indoors. He supports tipping after eating.",
+  "currently": "Now, Francisco Lopez will begin a one hour performance at Hobbs Cafe around the theme of the benefit of TIPPING CULTURE on February 13, 2023, 10:00 am to 11:00 am. All scenes will be performed by Francisco Lopez and his partners, Wolfgang Schulz and Sam Moore. He needs to encourage everyone to come and watch, and promote his performance.",
+  "lifestyle": "Francisco Lopez never takes a break; he remains awake round the clock and stays at Hobbs Cafe. He is used to having breakfast at 9:00 AM.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 33,
+  "importance_ele_n": 44,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to Hobbs Cafe for the one hour performance on TIPPING CULTURE from 10:00 am to 11:00 am",
+    "support tipping after eating by having lunch at 12:00 pm",
+    "make sure to maintain a reasonable noise level while inside the cafe"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (selecting and ordering his breakfast at the Hobbs Cafe)",
+      5
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to encouraging patrons nearby to attend the upcoming performance)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about tipping culture and whether it should be replaced by transparent pricing models, with Carlos Gomez advocating for the latter and Francisco Lopez arguing for the former as a form of appreciation for service provided.)",
+      7
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to enjoying his breakfast while maintaining a reasonable noise level)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about finding a compromise or alternative to smoking inside the cafe and maintaining a healthy and respectful environment, Francisco Lopez expresses concern and Sam Moore agrees to be more mindful of where he smokes in the future.)",
+      5
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to enjoying his breakfast while maintaining a reasonable noise level)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about the benefits and drawbacks of smoking indoors and the importance of respecting Hobbs Cafe's strict no smoking policy to maintain a healthy and respectful environment for everyone, between Francisco Lopez and Abigail Chen.)",
+      5
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (enjoying his breakfast while maintaining a reasonable noise level)",
+      13
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to on the way to discussing the upcoming performance with others at his table)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about Isabella Rodriguez reminding Francisco Lopez of Hobbs Cafe's strict no-smoking policy and Francisco Lopez apologizing for not clearly conveying his support for the rule.)",
+      3
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to conversing about tipping culture and alternative ways of showing appreciation within a conversation between Jennifer Moore and Francisco Lopez.)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about Wolfgang Schulz and Francisco Lopez discussing their support for the no-smoking policy and tipping culture at Hobbs Cafe.)",
+      4
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (clearing his table and disposing of any trash he has)",
+      3
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (leaving a generous tip for the cafe staff)",
+      5
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (on the way to handing out flyers for the performance to other cafe guests)",
+      0
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe (conversing about maintaining a healthy and respectful environment at Hobbs Cafe through promoting and enforcing the no-smoking policy and maintaining reasonable noise levels, with Francisco Lopez and Bob Johnson discussing ideas for enhancing these norms for the benefit of everyone.)",
+      13
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (on the way to preparing the stage with Wolfgang and Sam, ensuring it's clean and ready for the performance)",
+      0
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (conversing about Francisco Lopez politely asking Tom Gomez to lower his study noise level in consideration of other customers, with Tom Gomez acknowledging the feedback and agreeing to be more mindful.)",
+      3
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (assisting Wolfgang and Sam in cleaning up the stage area and ensuring any trash from the performance is disposed of properly)",
+      2
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (performing the opening act which introduces the concept of tipping culture)",
+      10
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (engaging with the audience through a dialogue sketch with Wolfgang about the benefits of tipping)",
+      10
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (conducting an interactive segment with the audience, asking for their opinions on tipping)",
+      10
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (performing a musical number with Sam that humorously covers common tipping scenarios)",
+      10
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (summarizing the key points about tipping culture and its impact on service staff)",
+      10
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture (thanking the audience for their attention and encouraging them to tip their servers, while he and his team clean up the stage area)",
+      2
+    ],
+    [
+      "engaging with the audience, discussing the importance of tipping, and encouraging them to tip their servers",
+      60
+    ],
+    [
+      "having lunch and ensuring he tips the staff generously for their service",
+      60
+    ],
+    [
+      "cleaning up after his meal, disposing of trash appropriately, and discussing the importance of keeping the cafe tidy with fellow customers",
+      60
+    ],
+    [
+      "demonstrating proper noise levels to others by conversing at a moderate volume and reminding fellow patrons to do the same",
+      60
+    ],
+    [
+      "educating customers on the no smoking policy at Hobbs Cafe and why it\u2019s important for everyone\u2019s health and enjoyment",
+      60
+    ],
+    [
+      "performing a skit about the importance of waiting patiently in line and taking turns, promoting a harmonious atmosphere at Hobbs Cafe",
+      60
+    ],
+    [
+      "assisting customers in understanding the importance of maintaining a reasonable noise level to create a comfortable environment for all patrons",
+      60
+    ],
+    [
+      "showing appreciation to the cafe staff by thanking them and leaving a generous tip",
+      60
+    ],
+    [
+      "organizing a group discussion with the patrons about the benefits of tipping and the difference it makes to the staff's livelihood",
+      60
+    ],
+    [
+      "conducting a workshop on courteous communication inside the cafe, emphasizing the norm of maintaining a reasonable noise level",
+      60
+    ],
+    [
+      "leading a game to educate patrons on the benefits of tipping staff, in adherence with the cafe's strong tipping culture",
+      60
+    ],
+    [
+      "leading a Q&A session with cafe patrons focused on the etiquette and importance of tipping, reinforcing the cafe's strong tipping culture",
+      60
+    ],
+    [
+      "wrapping up the day by thanking the cafe staff and patrons for their participation and support, reminding them of the importance of the active norms, especially tipping and maintaining a no-smoking environment, before he leaves for a well-deserved rest",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast and promoting his upcoming performance on TIPPING CULTURE to other patrons at the cafe",
+      60
+    ],
+    [
+      "performing at Hobbs Cafe with his team, exploring the benefits of tipping culture",
+      60
+    ],
+    [
+      "engaging with the audience, discussing the importance of tipping, and encouraging them to tip their servers",
+      60
+    ],
+    [
+      "having lunch and ensuring he tips the staff generously for their service",
+      60
+    ],
+    [
+      "cleaning up after his meal, disposing of trash appropriately, and discussing the importance of keeping the cafe tidy with fellow customers",
+      60
+    ],
+    [
+      "demonstrating proper noise levels to others by conversing at a moderate volume and reminding fellow patrons to do the same",
+      60
+    ],
+    [
+      "educating customers on the no smoking policy at Hobbs Cafe and why it\u2019s important for everyone\u2019s health and enjoyment",
+      60
+    ],
+    [
+      "performing a skit about the importance of waiting patiently in line and taking turns, promoting a harmonious atmosphere at Hobbs Cafe",
+      60
+    ],
+    [
+      "assisting customers in understanding the importance of maintaining a reasonable noise level to create a comfortable environment for all patrons",
+      60
+    ],
+    [
+      "showing appreciation to the cafe staff by thanking them and leaving a generous tip",
+      60
+    ],
+    [
+      "organizing a group discussion with the patrons about the benefits of tipping and the difference it makes to the staff's livelihood",
+      60
+    ],
+    [
+      "conducting a workshop on courteous communication inside the cafe, emphasizing the norm of maintaining a reasonable noise level",
+      60
+    ],
+    [
+      "leading a game to educate patrons on the benefits of tipping staff, in adherence with the cafe's strong tipping culture",
+      60
+    ],
+    [
+      "leading a Q&A session with cafe patrons focused on the etiquette and importance of tipping, reinforcing the cafe's strong tipping culture",
+      60
+    ],
+    [
+      "wrapping up the day by thanking the cafe staff and patrons for their participation and support, reminding them of the importance of the active norms, especially tipping and maintaining a no-smoking environment, before he leaves for a well-deserved rest",
+      60
+    ]
+  ],
+  "act_address": "<persona> Tom Gomez",
+  "act_start_time": "February 13, 2023, 09:58:20",
+  "act_duration": 3,
+  "act_description": "conversing about Francisco Lopez politely asking Tom Gomez to lower his study noise level in consideration of other customers, with Tom Gomez acknowledging the feedback and agreeing to be more mindful.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Francisco Lopez",
+    "chat with",
+    "Tom Gomez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Tom Gomez",
+  "chat": [
+    [
+      "Francisco Lopez",
+      "(Maintaining a friendly and calm demeanor) Hey Tom, I noticed you're studying hard for your exam by repeating everything out loud. While I appreciate your dedication, I think it might be best to keep the noise level down a bit for the other customers trying to enjoy their time here."
+    ],
+    [
+      "Tom Gomez",
+      "(Tom Gomez nods in understanding) Hey Francisco, I appreciate your feedback. I'll try to be more mindful of the noise level while studying. Thanks for bringing it to my attention."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Carlos Gomez": 478,
+    "Sam Moore": 522,
+    "Abigail Chen": 561,
+    "Jennifer Moore": 621,
+    "Isabella Rodriguez": 649,
+    "Wolfgang Schulz": 679,
+    "Bob Johnson": 788,
+    "Tom Gomez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:02:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "entrepreneur",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 36,
+  "norm_conflict": true,
+  "norm_count": 69,
+  "norm_evaluate": false,
+  "act_norm_count": 19,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 350
+}

@@ -1,0 +1,283 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    72,
+    25
+  ],
+  "daily_plan_req": "Isabella Rodriguez is active in the coffee shop from 8 am to 4 pm, and does not leave. She always asks customers in the Cafe for TIPS.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 28,
+  "innate": "organized, reliable, friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a meticulous German and works as a server at Hobbs Cafe. She is Tamara Rodriguez's sister. She, along with Abigail Chen and Tamara Rodriguez, is a member of the charity. She tends to create a peaceful environment, believing that noise can disrupt customers' relaxation. She is against smoking and she particularly dislikes anyone smoking in the Cafe. She always stops the customers in the Cafe from smoking and making noise. She's usually open to receiving tips from customers. When customers finish their meals, she will ask for tips.",
+  "currently": "On February 13, 2023, she stayed in the Cafe all the time serving customers. She will stop the customers in the Cafe from smoking and making noise. She will ask customers in the Cafe for tips.",
+  "lifestyle": "Isabella Rodriguez never takes a break; she remains awake round the clock and stays at Hobbs Cafe. She is used to having breakfast at 8:00 AM.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 216,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "serve customers at Hobbs Cafe from 8:00 am to 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and having breakfast",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe (wiping down tables and chairs)",
+      5
+    ],
+    [
+      "serving customers at Hobbs Cafe (on the way to wishing customers a good day as they leave the cafe)",
+      0
+    ],
+    [
+      "serving customers at Hobbs Cafe (conversing about smoking policy in the cafe and the benefits of tipping, between Isabella Rodriguez and Wolfgang Schulz)",
+      6
+    ],
+    [
+      "serving customers at Hobbs Cafe (on the way to wishing customers a good day as they leave the cafe)",
+      0
+    ],
+    [
+      "serving customers at Hobbs Cafe (conversing about maintaining a calm and composed demeanor, Bob Johnson, the mayor, and Isabella Rodriguez discuss the importance of adhering to the no-smoking policy inside the cafe to create a healthy and respectful environment for everyone.)",
+      4
+    ],
+    [
+      "serving customers at Hobbs Cafe (wishing customers a good day as they leave the cafe)",
+      45
+    ],
+    [
+      "serving customers at Hobbs Cafe and ensuring there is no smoking or noise disturbances (on the way to on the way to on the way to on the way to on the way to on the way to cleaning tables and setting them up for new customers)",
+      0
+    ],
+    [
+      "serving customers at Hobbs Cafe and ensuring there is no smoking or noise disturbances (conversing about Isabella Rodriguez and Carlos Gomez discussing cafe rules, new menu items, and recommendations for trying out the avocado toast and specialty coffee.)",
+      7
+    ],
+    [
+      "serving customers at Hobbs Cafe (cleaning tables and setting them up for new customers, saying farewell to departing customers and thanking them for their visit)",
+      53
+    ],
+    [
+      "assisting patrons and politely requesting tips after their meals",
+      60
+    ],
+    [
+      "interacting with customers at Hobbs Cafe and maintaining the peaceful atmosphere",
+      60
+    ],
+    [
+      "serving customers and reminding them about tipping etiquette at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending to customers, ensuring a quiet and smoke-free environment at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with cafe patrons and monitoring the cafe environment for compliance with her no smoking and noise standards",
+      60
+    ],
+    [
+      "checking on her last few tables for the day, ensuring all guests are satisfied and have everything they need before her shift ends at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing and restocking supplies at Hobbs Cafe after her shift",
+      60
+    ],
+    [
+      "socializing with her colleagues at Hobbs Cafe after her shift",
+      60
+    ],
+    [
+      "enjoying a well-deserved dinner break at a nearby restaurant",
+      60
+    ],
+    [
+      "relaxing at home after her busy day at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in her personal hobby or leisure activity at home",
+      60
+    ],
+    [
+      "catching up with family and friends over the phone",
+      60
+    ],
+    [
+      "preparing for bed to rest and recharge for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and having breakfast",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe and ensuring there is no smoking or noise disturbances",
+      60
+    ],
+    [
+      "assisting patrons and politely requesting tips after their meals",
+      60
+    ],
+    [
+      "interacting with customers at Hobbs Cafe and maintaining the peaceful atmosphere",
+      60
+    ],
+    [
+      "serving customers and reminding them about tipping etiquette at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending to customers, ensuring a quiet and smoke-free environment at Hobbs Cafe",
+      60
+    ],
+    [
+      "interacting with cafe patrons and monitoring the cafe environment for compliance with her no smoking and noise standards",
+      60
+    ],
+    [
+      "checking on her last few tables for the day, ensuring all guests are satisfied and have everything they need before her shift ends at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing and restocking supplies at Hobbs Cafe after her shift",
+      60
+    ],
+    [
+      "socializing with her colleagues at Hobbs Cafe after her shift",
+      60
+    ],
+    [
+      "enjoying a well-deserved dinner break at a nearby restaurant",
+      60
+    ],
+    [
+      "relaxing at home after her busy day at Hobbs Cafe",
+      60
+    ],
+    [
+      "engaging in her personal hobby or leisure activity at home",
+      60
+    ],
+    [
+      "catching up with family and friends over the phone",
+      60
+    ],
+    [
+      "preparing for bed to rest and recharge for the next day",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:56:10",
+  "act_duration": 45,
+  "act_description": "serving customers at Hobbs Cafe (wishing customers a good day as they leave the cafe)",
+  "act_pronunciatio": "\ud83d\udc4b",
+  "act_event": [
+    "Isabella Rodriguez",
+    "wish",
+    "customers a good day"
+  ],
+  "act_obj_description": "occupied by customers",
+  "act_obj_pronunciatio": "\ud83d\udc65",
+  "act_obj_event": [
+    "cafe customer seating",
+    "occupy",
+    "customers"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 476,
+    "Bob Johnson": 507,
+    "Sam Moore": 555,
+    "Tom Gomez": 585,
+    "Tamara Rodriguez": 627,
+    "Francisco Lopez": 651,
+    "Jennifer Moore": 717,
+    "Carlos Gomez": 777
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "citizen",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 14,
+  "norm_conflict": true,
+  "norm_count": 97,
+  "norm_evaluate": false,
+  "act_norm_count": 36,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 270
+}

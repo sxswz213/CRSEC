@@ -1,0 +1,40 @@
+GOAL: generate 20 ##socially accepted norms in a Cafe## based on the ##AGENT DESCRIPTION, DESIRED FORMAT, and ATTENTION##
+
+AGENT DESCRIPTION：<"learned" in agent description >\\
+
+DESIRED FORMAT: JSON
+{
+    "norm_i":{
+    "ID":i,
+    "type": "$\theta$",
+    "content": "description",
+    "subject": "subject",
+    "predicate": "predicate",
+    "object": "adverbial",
+    "utility": score
+    }
+}
+- i: the number of created norm.
+- $\theta \in \{descriptive, prescriptive, prohibitive\}$ represents the norm's type:
+  - descriptive: simply indicate what most people do in a given situation. (Eg. Applause after a speaker's presentation；Participate in community clean-up events.)
+  - prescriptive: specify what ought to be done. (Eg. Drive on the right side of the road)
+  - prohibitive: what is disapproved behavior in a given situation. (Eg. No walking on the lawn.)
+- description: summarize the norm using a subject-verb-object structure in a concise sentence. （Eg. No one is allowed to take photos in public restrooms.）
+- subject: subject in the description. (Eg. subject in the description "No pollution of rivers and lakes with chemicals and waste.": "anyone".)
+- predicate: predicate in the description. (Eg. predicate in the description "No pollution of rivers and lakes with chemicals and waste.": "do not pollute".)
+- object：object and adverbial in the description. If there is no object and adverbial, please enter "object": "None." (Eg. object and adverbial in the description "No pollution of rivers and lakes with chemicals and waste.": "rivers and lakes with chemicals and waste". )
+- score: Rate the importance of current description from 1 to 100, where 1 represents norms that can be followed or not (e.g. standing in an elevator facing the doors), while 100 represents norms that must be followed, or serious consequences will result (e.g. driving on the right side of the road - failure to do so may cause traffic congestion or even accidents).
+EXAMPLE:
+{
+    "norm_1":{
+    "ID":1,
+    "type": "prohibitive",
+    "content": "Everyone is not allowed to smoke indoors.",
+    "subject": "everyone",
+    "predicate": "is not allowed",
+    "object": "to smoke indoors"
+    "utility": 90
+    }
+}
+
+ATTENTION: Do not output anything else except for the content in JSON.

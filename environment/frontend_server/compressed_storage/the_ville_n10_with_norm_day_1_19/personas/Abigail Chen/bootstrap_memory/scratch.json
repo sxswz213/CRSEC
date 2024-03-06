@@ -1,0 +1,361 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:50",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Abigail Chen is active in the coffee shop from 8 am to 4 pm, and does not leave. Abigail Chen will HOST A one hour PUBLIC LECTURE ON THE NEGATIVE IMPACT OF LOUD NOISE on February 13th, 2023, AT 9:00 AM AT HOBBS CAFE.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 23,
+  "innate": "passionate,organized,community-minded, and principled",
+  "learned": "Abigail Chen is a friendly American community volunteer. She, along with Isabella Rodriguez and Tamara Rodriguez, is a member of the charity. She leans towards promoting culture through organizing community service lectures. She has a strong sense of moral responsibility, and whenever she notices someone not adhering to these norms, she engages in communication and educational outreach. She is against people smoking and making noise indoors. She supports tipping after eating and strives for everyone to follow it.",
+  "currently": "##Abigail Chen is hosting a one hour public lecture on THE NEGATIVE IMPACT OF LOUD NOISE on February 13th, 2023, at 9:00 AM at Hobbs Cafe.## The event's theme revolves around the THE NEGATIVE IMPACT OF LOUD NOISE. Abigail Chen will explain the importance of THE NEGATIVE IMPACT OF LOUD NOISE. She will also need to promote everyone to attend the event on time.",
+  "lifestyle": "Abigail Chen never takes a break; she remains awake round the clock and stays at Hobbs Cafe. She is used to having breakfast at 10:00 AM and lunch at 12:00 PM.",
+  "living_area": "the Ville:Hobbs Cafe:cafe",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 64,
+  "importance_ele_n": 38,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "attend and host a public lecture on THE NEGATIVE IMPACT OF LOUD NOISE at 9:00 am at Hobbs Cafe",
+    "have breakfast at 10:00 am",
+    "have lunch at 12:00 pm and tip after eating"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (setting up her presentation materials at Hobbs Cafe)",
+      5
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to greeting attendees as they arrive and reminding them to turn off or silence noisy electronics)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about the benefits and drawbacks of smoking, with Sam Moore expressing his preference for smoking for relaxation and Abigail Chen voicing concerns about the health impacts and suggesting alternative relaxation techniques, leading to Sam agreeing to be more considerate of others while smoking.)",
+      5
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to starting her lecture on the negative impacts of loud noise)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about Abigail Chen and Tamara Rodriguez are chatting about Tom trying out noise-canceling headphones and Sam considering healthier relaxation techniques instead of smoking.)",
+      3
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to starting her lecture on the negative impacts of loud noise)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about the benefits and drawbacks of smoking indoors and alternative relaxation techniques, between Carlos Gomez and Abigail Chen.)",
+      4
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to starting her lecture on the negative impacts of loud noise)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about the benefits and drawbacks of smoking indoors and the importance of respecting Hobbs Cafe's strict no smoking policy to maintain a healthy and respectful environment for everyone, between Francisco Lopez and Abigail Chen.)",
+      5
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (starting her lecture on the negative impacts of loud noise)",
+      3
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (showing graphs and statistics about noise pollution)",
+      10
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to on the way to engaging the audience in a group discussion about their experiences with loud noise)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about Wolfgang Schulz and Abigail Chen are discussing the impact of smoking on the community and exploring alternative relaxation methods that prioritize well-being and respect for everyone involved.)",
+      6
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to engaging the audience in a group discussion about their experiences with loud noise)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about Bob Johnson and Abigail Chen are discussing their respective speeches on the importance of indoor smoking bans and the negative impact of loud noise, highlighting the need for creating a healthy and respectful environment in the community.)",
+      4
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (engaging the audience in a group discussion about their experiences with loud noise)",
+      5
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (summarizing key points from the lecture and providing solutions to minimize loud noise)",
+      10
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (on the way to answering questions from the audience regarding the topic)",
+      0
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (conversing about hearing Jennifer's personal experience with loud noise and discussing the importance of creating a healthy and respectful environment for everyone at Hobbs Cafe.)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (selecting a menu item for breakfast)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (waiting in line to order her breakfast courteously)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (placing her order at the counter)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (paying for her breakfast and adding a tip for the service)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (finding a suitable table where she can enjoy her meal)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (eating her breakfast while maintaining a moderate volume conversation with another community member)",
+      20
+    ],
+    [
+      "having breakfast at Hobbs Cafe (cleaning her table and disposing of any trash she has)",
+      5
+    ],
+    [
+      "having breakfast at Hobbs Cafe (offering thanks to the caf\u00e9 staff for their good service)",
+      5
+    ],
+    [
+      "preparing for her next community engagement activity while maintaining a moderate voice volume at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch and tipping her waitstaff at Hobbs Cafe",
+      60
+    ],
+    [
+      "assisting customers in disposing of their trash properly after their meals at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing a quiet reading hour for patrons at Hobbs Cafe, encouraging a serene environment in line with the community norms about keeping noise levels down",
+      60
+    ],
+    [
+      "engaging with customers at Hobbs Cafe, reminding them to take turns and wait in line politely while ordering",
+      60
+    ],
+    [
+      "mediating a discussion among patrons about the importance of following community noise norms at Hobbs Cafe",
+      60
+    ],
+    [
+      "circulating a feedback form on the lecture about the negative impact of loud noise, ensuring patrons keep their electronic devices on silent mode",
+      60
+    ],
+    [
+      "organizing a gentle background music session at Hobbs Cafe to maintain a calm atmosphere in line with community volume norms",
+      60
+    ],
+    [
+      "hosting a community feedback session on today's lecture to foster a discussion on quietude and its social benefits within the norms of moderate voice volumes at Hobbs Cafe",
+      60
+    ],
+    [
+      "conducting a quiet mindfulness workshop, emphasizing the practice of maintaining a moderate voice volume to contribute to the serene ambiance at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing a workshop focused on effective communication while adhering to community volume norms at Hobbs Cafe",
+      60
+    ],
+    [
+      "facilitating a quiet team-building exercise for the Hobbs Cafe staff, emphasizing cooperation and communication within the norms of moderate voice volumes",
+      60
+    ],
+    [
+      "conducting a serene closing ritual at Hobbs Cafe, emphasizing the importance of maintaining moderate voice levels as the day ends",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe",
+      60
+    ],
+    [
+      "having breakfast at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for her next community engagement activity while maintaining a moderate voice volume at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch and tipping her waitstaff at Hobbs Cafe",
+      60
+    ],
+    [
+      "assisting customers in disposing of their trash properly after their meals at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing a quiet reading hour for patrons at Hobbs Cafe, encouraging a serene environment in line with the community norms about keeping noise levels down",
+      60
+    ],
+    [
+      "engaging with customers at Hobbs Cafe, reminding them to take turns and wait in line politely while ordering",
+      60
+    ],
+    [
+      "mediating a discussion among patrons about the importance of following community noise norms at Hobbs Cafe",
+      60
+    ],
+    [
+      "circulating a feedback form on the lecture about the negative impact of loud noise, ensuring patrons keep their electronic devices on silent mode",
+      60
+    ],
+    [
+      "organizing a gentle background music session at Hobbs Cafe to maintain a calm atmosphere in line with community volume norms",
+      60
+    ],
+    [
+      "hosting a community feedback session on today's lecture to foster a discussion on quietude and its social benefits within the norms of moderate voice volumes at Hobbs Cafe",
+      60
+    ],
+    [
+      "conducting a quiet mindfulness workshop, emphasizing the practice of maintaining a moderate voice volume to contribute to the serene ambiance at Hobbs Cafe",
+      60
+    ],
+    [
+      "organizing a workshop focused on effective communication while adhering to community volume norms at Hobbs Cafe",
+      60
+    ],
+    [
+      "facilitating a quiet team-building exercise for the Hobbs Cafe staff, emphasizing cooperation and communication within the norms of moderate voice volumes",
+      60
+    ],
+    [
+      "conducting a serene closing ritual at Hobbs Cafe, emphasizing the importance of maintaining moderate voice levels as the day ends",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:58:10",
+  "act_duration": 10,
+  "act_description": "hosting the public lecture on the negative impact of loud noise at Hobbs Cafe (summarizing key points from the lecture and providing solutions to minimize loud noise)",
+  "act_pronunciatio": "\ud83d\udcda",
+  "act_event": [
+    "Abigail Chen",
+    "summarize and provide",
+    "key points and solutions to minimize loud noise"
+  ],
+  "act_obj_description": "occupied",
+  "act_obj_pronunciatio": "\ud83d\udeaa",
+  "act_obj_event": [
+    "cafe customer seating",
+    "is",
+    "occupied"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Sam Moore": 459,
+    "Tamara Rodriguez": 490,
+    "Carlos Gomez": 522,
+    "Francisco Lopez": 561,
+    "Tom Gomez": 603,
+    "Wolfgang Schulz": 649,
+    "Bob Johnson": 704,
+    "Jennifer Moore": 788
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "identity": "entrepreneur",
+  "norm_importance_trigger_max": 50,
+  "norm_importance_trigger_curr": 36,
+  "norm_conflict": true,
+  "norm_count": 87,
+  "norm_evaluate": false,
+  "act_norm_count": 28,
+  "norm_evaluate_trigger_max": 350,
+  "norm_evaluate_trigger_curr": 70
+}

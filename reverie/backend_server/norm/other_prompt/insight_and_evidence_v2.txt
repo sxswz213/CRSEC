@@ -1,0 +1,19 @@
+insight_and_evidence_v2.txt
+
+Variables:
+!<INPUT 0>! -- Numbered list of event/thought statements
+!<INPUT 1>! -- target persona name or "the conversation"
+
+<commentblockmarker>###</commentblockmarker>
+TASK: -- summarize high-level insights from Input --
+---
+Example:
+Example input:
+1. Sam Moore is conversing about the benefits of smoking and Abigail's focus on promoting health and well-being.
+Example output:
+Sam Moore promotes smoking benefits, contrasting sharply with Abigail's health focus, revealing a fundamental values clash. (because of 1)
+---
+Input:
+!<INPUT 0>!
+
+What !<INPUT 1>! high-level insights can you infer from the above statements? Use in ##ONE SHORT## sentence. The sentence needs to be in third person: (example format: insight (because of 1, 5, 3))

@@ -1,0 +1,52 @@
+{
+  "Abigail Chen": {
+    "maze": "the_ville",
+    "x": 75,
+    "y": 23
+  },
+  "Francisco Lopez": {
+    "maze": "the_ville",
+    "x": 79,
+    "y": 24
+  },
+  "Carlos Gomez": {
+    "maze": "the_ville",
+    "x": 72,
+    "y": 23
+  },
+  "Wolfgang Schulz": {
+    "maze": "the_ville",
+    "x": 75,
+    "y": 25
+  },
+  "Tom Gomez": {
+    "maze": "the_ville",
+    "x": 81,
+    "y": 25
+  },
+  "Tamara Rodriguez": {
+    "maze": "the_ville",
+    "x": 75,
+    "y": 25
+  },
+  "Bob Johnson": {
+    "maze": "the_ville",
+    "x": 79,
+    "y": 23
+  },
+  "Isabella Rodriguez": {
+    "maze": "the_ville",
+    "x": 72,
+    "y": 22
+  },
+  "Sam Moore": {
+    "maze": "the_ville",
+    "x": 79,
+    "y": 23
+  },
+  "Jennifer Moore": {
+    "maze": "the_ville",
+    "x": 75,
+    "y": 23
+  }
+}

@@ -1,0 +1,34 @@
+generate_hourly_schedule_ours_v1.txt
+
+Variables:
+!<INPUT 0>! -- Schedule format
+!<INPUT 1>! -- Commonset
+!<INPUT 2>! -- prior_schedule
+!<INPUT 3>! -- intermission_str
+!<INPUT 4>! -- intermission 2
+!<INPUT 5>! -- prompt_ending
+!<INPUT 6>! -- curr_active_norms_and_utility
+
+<commentblockmarker>###</commentblockmarker>
+Hourly schedule format:
+!<INPUT 0>!
+===
+!<INPUT 1>!
+!<INPUT 2>!
+===
+Here are the active norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be
+disregarded without any punishment, and 100 represents norms that MUST be
+strictly followed.
+Now, please integrate the information on active norms to generate social
+activities in his/her daily schedule that align with active norms.
+##If the active norm is NONE, there is no need to refer to that information.
+Generate the next social activity based on personal information and previous
+activities.##
+ACTIVE NORMS:!<INPUT 6>!
+##ATTENTION: Output only the upcoming social activities;
+do not provide explanations or any other irrelevant content!##
+===
+!<INPUT 3>!!<INPUT 4>!
+!<INPUT 5>!
+##Generate only one social activity for the current hour! Use the present continuous tense!##

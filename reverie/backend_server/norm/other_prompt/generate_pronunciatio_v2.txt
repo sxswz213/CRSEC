@@ -1,0 +1,13 @@
+generate_pronunciatio_v2.txt
+
+Variables: 
+!<INPUT 0>! -- Action description
+!<INPUT 1>! -- example
+
+<commentblockmarker>###</commentblockmarker>
+Convert the action description to an emoji (important: use two or less emojis).
+
+!<INPUT 1>!
+
+Action description: !<INPUT 0>!
+Emoji:

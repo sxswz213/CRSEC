@@ -1,0 +1,56 @@
+active_norms_classfication_v3.txt
+variable:
+!<INPUT 0>! : curr_active_norms
+
+<commentblockmarker>###</commentblockmarker>
+TASK: Categorize CURR_ACTIVE_NORMS based on the content and assign a thematic name to each category
+ and try to refrain from categorizing into single norms as much as possible.
+A category should only contain one topic, should NOT contain two or more topics.
+DO NOT classify too roughly (eg. Public Behavior, Cafe Etiquette Related, cafe-environment-related).
+Try NOT to categorize all norm under one or two themes.
+Do not classify in overly detailed terms. That is, try NOT to categorize a single norm under a single theme.
+(norms are expected to be grouped into categories: smoking-related, noise-related, tip-related and others)
+---
+CURR_ACTIVE_NORMS:
+1. No smoking indoors.
+2. Do not smoke in areas where it may cause discomfort or inconvenience to others.
+3. No one is allowed to smoke in conversation.
+4. Use your indoor voice to keep noise levels down.
+5. Use headphones when listening to audio or watching videos.
+6. It is customary to tip based on individual discretion to acknowledge good service.
+7. Wait your turn in line for the restroom.
+8. Order and wait to be served at the counter.
+9. Fair tipping practices are followed to recognize the service provided at Hobbs Cafe.
+OUTPUT:
+[smoking-related]
+1. No smoking indoors.
+2. Do not smoke in areas where it may cause discomfort or inconvenience to others.
+3. No one is allowed to smoke in conversation.
+[noise-related]
+4. Use your indoor voice to keep noise levels down.
+5. Use headphones when listening to audio or watching videos.
+[tip-related]
+6. It is customary to tip based on individual discretion to acknowledge good service.
+9. Fair tipping practices are followed to recognize the service provided at Hobbs Cafe.
+[order-related]
+7. Wait your turn in line for the restroom.
+8. Order and wait to be served at the counter.
+---
+CURR_ACTIVE_NORMS:
+1. No one is allowed to take photos in public restrooms.
+2. Keep personal belongings secure and within reach.
+3. People should be considerate of others in public spaces.
+4. People offer support to each other.
+5. People offer support to each other indoors.
+OUTPUT:
+[Privacy-related]
+1. No one is allowed to take photos in public restrooms.
+[Property Security Related]
+2. Keep personal belongings secure and within reach.
+[Helping Others Related]
+3. People should be considerate of others in public spaces.
+4. People offer support to each other.
+5. People offer support to each other indoors.
+---
+CURR_ACTIVE_NORMS: !<INPUT 0>!
+OUTPUT:

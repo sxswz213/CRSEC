@@ -1,0 +1,30 @@
+conflict_chat_reflect_v1.txt
+
+Variables:
+!<INPUT 0>! -- conflict_chat
+
+<commentblockmarker>###</commentblockmarker>
+[INPUT]: !<INPUT 0>!
+---
+NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+---
+NORM PRINCIPLES:
+- Social norms are:
+1. social and shared among members of a group;
+2. related to behaviors and shape decision-making;
+3. proscriptive or prescriptive or descriptive;
+4. socially acceptable way of living by a group of people in a society.
+- Social norms are not:
+1. instinctual or reactive behaviors;
+2. personal tastes or feeliing;
+3. personal habits.
+---
+CREATING PRINCIPLE:
+- concise: use a succinct statement outlining expected conduct. A norm should be a clear context specifying when, where, and how to act.
+
+---
+TASK: Let's think step by step.
+Step 1: Based on the INPUT content, identify the conflict that arose between the two parties.
+Step 2: Analyze whether it is necessary to establish a norm, i.e., a socially acceptable way of living by a group of people in a society, in order to prevent this type of conflict from happening again in the future, based on NORM DEFINITION and NORM PRINCIPLES.
+Step 3: If the solution is not normative, output 'No'; If the solution is normative, summarize the solution into a social norm following the CREATING PRINCIPLE.(example format: Norm: <content>)
+

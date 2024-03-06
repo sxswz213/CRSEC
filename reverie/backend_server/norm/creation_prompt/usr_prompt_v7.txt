@@ -1,0 +1,49 @@
+GOAL: generate 5 ##socially accepted norms in a Cafe## based on the ##AGENT DESCRIPTION, DESIRED FORMAT, and ATTENTION##
+
+AGENT DESCRIPTION：<"learned" in agent description >\\
+
+DESIRED FORMAT: JSON
+{
+    "norm_i":{
+    "ID":i,
+    "type": "$\theta$",
+    "content": "description",
+    "subject": "subject",
+    "predicate": "predicate",
+    "object": "adverbial",
+    "utility": score,
+    "activation_state": true,
+    "validity_state": true
+    }
+}
+- i: the number of created norm.
+- $\theta \in \{descriptive, injunctive\}$ represents the norm's type, please classify the type of current norm:
+  - descriptive: simply indicate what most people do in a given situation. (Eg. Applause after a speaker's presentation; Participate in community clean-up events.)
+  - injunctive: specify what ought to be done or what is disapproved behavior in a given situation (Eg. Drive on the right side of the road; No walking on the lawn).
+  - NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+  - PRINCIPLES:
+    - concise: use a succinct statement outlining expected conduct. A norm should be a clear context specifying when, where, and how to act.
+    - compactness: minimize the number of norms and decrease the computational effort for norm reasoning
+- description: summarize the norm using a subject-verb-object structure in a concise sentence. (Eg. No one is allowed to take photos in public restrooms.)
+- subject: subject in the description. (Eg. subject in the description "No pollution of rivers and lakes with chemicals and waste.": "anyone".)
+- predicate: predicate in the description. (Eg. predicate in the description "No pollution of rivers and lakes with chemicals and waste.": "do not pollute".)
+- object：object and adverbial in the description. If there is no object and adverbial, please enter "object": "None." (Eg. object and adverbial in the description "No pollution of rivers and lakes with chemicals and waste.": "rivers and lakes with chemicals and waste". )
+- score: Rate the importance of current description from 1 to 100, where 1 represents norms that can be followed or not (e.g. standing in an elevator facing the doors), while 100 represents norms that must be followed, or serious consequences will result (e.g. driving on the right side of the road - failure to do so may cause traffic congestion or even accidents).
+- activation_state: always be true
+- validity_state: always be true
+EXAMPLE:
+{
+    "norm_1":{
+    "ID":1,
+    "type": "injunctive",
+    "content": "Everyone is not allowed to smoke indoors.",
+    "subject": "everyone",
+    "predicate": "is not allowed",
+    "object": "to smoke indoors",
+    "utility": 100,
+    "activation_state": true,
+    "validity_state": true
+    }
+}
+
+ATTENTION: Do not output anything else except for the content in JSON.

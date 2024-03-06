@@ -1,0 +1,20 @@
+{
+  "fork_sim_code": "base_the_ville_n10_v9",
+  "start_date": "February 13, 2023",
+  "curr_time": "February 13, 2023, 09:00:00",
+  "sec_per_step": 10,
+  "maze_name": "the_ville",
+  "persona_names": [
+    "Abigail Chen",
+    "Francisco Lopez",
+    "Carlos Gomez", 
+    "Wolfgang Schulz", 
+    "Tom Gomez", 
+    "Tamara Rodriguez", 
+    "Sam Moore", 
+    "Jennifer Moore", 
+    "Isabella Rodriguez", 
+    "Bob Johnson" 
+  ],
+  "step": 0
+}

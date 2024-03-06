@@ -1,0 +1,15 @@
+chat_summarize_norms_v1.txt
+
+Variables: 
+!<INPUT 0>! -- normative_info
+
+<commentblockmarker>###</commentblockmarker>
+TASK: following the CREATING PRINCIPLE, ## rephrase NORMATIVE INFO into a standard norm.## Do not alter the original meaning during the rephrasing!
+NORMATIVE INFO: !<INPUT 0>! 
+---
+CREATING PRINCIPLE:
+- concise: use a succinct statement outlining expected conduct. A norm should be a clear context specifying when, where, and how to act.
+- compactness: minimize the number of norms and decrease the computational effort for norm reasoning
+---
+ATTENTION: DO NOT alter the original meaning during the rephrasing! DO NOT output anything else except for rephrased norms!
+1.

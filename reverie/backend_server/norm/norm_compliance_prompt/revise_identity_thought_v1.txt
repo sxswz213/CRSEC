@@ -1,0 +1,11 @@
+revise_identity_thought_v1.txt
+
+Variables:
+!<INPUT 0>! -- Statements
+!<INPUT 1>! -- p_name
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+Given the statements above, how might we summarize !<INPUT 1>!'s feelings about their days up to now?
+
+Write the response from !<INPUT 1>!'s perspective.

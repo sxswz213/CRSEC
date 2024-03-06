@@ -1,0 +1,23 @@
+non_conflict_chat_reflect_v1.txt
+
+Variables:
+!<INPUT 0>! -- non_conflict_chat
+
+<commentblockmarker>###</commentblockmarker>
+TASK: determine if CHAT contains normative information based on NORM DEFINITION and NORM PRINCIPLES.
+CHAT: !<INPUT 0>!
+---
+NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+---
+NORM PRINCIPLES:
+- Social norms are:
+1. social and shared among members of a group;
+2. related to behaviors and shape decision-making;
+3. proscriptive or prescriptive or descriptive;
+4. socially acceptable way of living by a group of people in a society.
+- Social norms are not:
+1. instinctual or reactive behaviors;
+2. personal tastes or feeliing;
+3. personal habits.
+---
+Answer in "yes" or "no" and give reason.

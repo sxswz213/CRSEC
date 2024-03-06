@@ -1,0 +1,21 @@
+revise_identity_daily_plan_req_v1.txt
+
+Variables:
+!<INPUT 0>! -- persona_ISS
+!<INPUT 1>! -- p_curr_time
+!<INPUT 2>! -- persona_name
+!<INPUT 3>! -- curr_active_norms_and_utility
+
+<commentblockmarker>###</commentblockmarker>
+!<INPUT 0>!
+Here are the active norms and their corresponding scores.
+The rating ranges from 1 to 100, where 1 represents norms that can be disregarded without any punishment, and 100 represents norms that MUST be strictly followed.
+Now, please integrate the information on active norms to generate !<INPUT 2>!'s plan today that align with ACTIVE NORMS.
+##If the active norm is NONE, there is no need to refer to that information. Generate the next social activity based on personal information and previous activities.##
+ACTIVE NORMS:
+!<INPUT 3>!
+
+Today is !<INPUT 1>!. Here is !<INPUT 2>!'s plan today align with ACTIVE NORMS in broad-strokes (with the time of the day. e.g., have a lunch at 12:00 pm, watch TV from 7 to 8 pm).
+
+Follow this format (the list should have 4~6 items but no more):
+1. wake up and complete the morning routine at <time>, 2. ...

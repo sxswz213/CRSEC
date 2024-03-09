@@ -23,6 +23,17 @@ class Creation:
 
     # input prompt, return explicit norms
     def creation(self, prompt, agent_description):
+        '''
+        To create 5 norms for the agent.
+        The number of norms can be adjusted in the usr_prompt_v6.txt
+            which is located in:
+            ./creation_prompt
+        Args:
+            prompt: user prompt
+            agent_description: agent's scratch
+        Returns:
+            norms in json format
+        '''
         user_prompt = {"role": "user", "content": prompt}
         self.msg.append(user_prompt)
 

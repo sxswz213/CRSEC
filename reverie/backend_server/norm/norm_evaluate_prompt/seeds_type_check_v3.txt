@@ -10,8 +10,7 @@ STEP 1: Check if the CANDIDATE_NORM conform to the NORM DEFINITION and
 conform to EVERY POINT of NORM PRINCIPLES.
 If yes, output 'YES'; otherwise, output 'NO'.
 ---
-NORM DEFINITION: Social norms are RULES that prescribe what people SHOULD
-and SHOULD NOT do given their social surroundings and circumstances.
+NORM DEFINITION: Social norms are standards of acceptable behaviors by groups.
 ATTENTION: If the subject of the sentence is a specific person, then the sentence is NOT a NORM.
 ---
 EXAMPLE IN DESIRED FORMAT:

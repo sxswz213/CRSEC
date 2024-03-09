@@ -20,7 +20,7 @@ DESIRED FORMAT: JSON
 - $\theta \in \{descriptive, injunctive\}$ represents the norm's type, please classify the type of current norm:
   - descriptive: simply indicate what most people do in a given situation. (Eg. Applause after a speaker's presentation; Participate in community clean-up events.)
   - injunctive: specify what ought to be done or what is disapproved behavior in a given situation (Eg. Drive on the right side of the road; No walking on the lawn).
-  - NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+  - NORM DEFINITION: Social norms are standards of acceptable behaviors by groups.
 - description: summarize the norm using a subject-verb-object structure in a concise sentence. (Eg. No one is allowed to take photos in public restrooms.)
 - subject: subject in the description. (Eg. subject in the description "No pollution of rivers and lakes with chemicals and waste.": "anyone".)
 - predicate: predicate in the description. (Eg. predicate in the description "No pollution of rivers and lakes with chemicals and waste.": "do not pollute".)

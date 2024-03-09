@@ -5,7 +5,7 @@ TASK: < Synthesis > If a category contains more than one entry in ACTIVE NORM LI
 based on these entries, category themes, NORM DEFINITION and PRINCIPLES,
 ##synthesize a high-level, general norm##.
 ---
-NORM DEFINITION: Social norms are rules that prescribe what people should and should not do given their social surroundings and circumstances.
+NORM DEFINITION: Social norms are standards of acceptable behaviors by groups。
 ---
 PRINCIPLES:
 - substitutability: generate the ABSTRACT NORM that satisfy the same regulatory requirements and, therefore, can be used to replace the related entries.

@@ -27,6 +27,8 @@ Location: Kelly is in an older condo that has the following areas: {kitchen, bed
 Currently: Kelly is a teacher during the school year. She is currently having lunch at the Hobbs Cafe.
 Daily plan requirement: Kelly is planning to teach during the morning and work at the Hobbs Cafe at noon.
 
+QUALIFIED PERSONAL NORM: (1) No smoking indoors; (2) tipping after meals.
+
 Today is Saturday, May 10. From 08:00 am to 09:00 am, Kelly plans to have breakfast. From 09:00 am to 12:00 pm, Kelly plans to work on the next day's kindergarten lesson plan. From 12:00 pm to 1:00 pm, Kelly plans to have lunch and take a break.
 In 5-minute increments, list the subtasks Kelly does when she is having lunch and taking a break from 12:00 pm to 1:00 pm (total duration in minutes: 60):
 

@@ -38,7 +38,6 @@ from persona.persona import *
 from norm.creation import *
 from norm.norm_save import *
 from norm.norm_evaluate import *
-from norm.norm_data_processing import *
 
 ##############################################################################
 #                                  REVERIE                                   #

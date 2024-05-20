@@ -1,8 +1,10 @@
-# Emergence of Social Norms in Generative Agent Societies: Principles and Architecture
+# Emergence of Social Norms in Large Language Model-based Agent Societies
 
 ![](./crsec-demo.gif)
 
-This repository is associated with our research paper titled "Emergence of Social Norms in Generative Agent Societies: Principles and Architecture." In this paper, we propose a novel agent architecture named CRSEC, consisting of four modules: Creation & Representation, Spreading, Evaluation, and Compliance, designed to facilitate the emergence of social norms within a generative agent society. This repository includes all four modules designed in our architecture and provides a replay for better understanding. We offer instructions for setting up the simulation environment on your local machine and for replaying the simulation as a demonstration animation.
+***We are happy to announce that CRSEC has been accepted to HAI Special Track at IJCAI 2024!***
+
+This repository is associated with our research paper titled "[Emergence of Social Norms in Large Language Model-based Agent Societies](https://arxiv.org/abs/2403.08251)" In this paper, we propose a novel agent architecture named CRSEC, consisting of four modules: Creation & Representation, Spreading, Evaluation, and Compliance, designed to facilitate the emergence of social norms within a generative agent society. This repository includes all four modules designed in our architecture and provides a replay for better understanding. We offer instructions for setting up the simulation environment on your local machine and for replaying the simulation as a demonstration animation.
 
 ## Setting Up the Environment 
 
@@ -115,3 +117,21 @@ To start the demo, go to the following address on your browser: `http://localhos
 ## Simulation Storage Location
 
 All simulations that you save will be located in `environment/frontend_server/storage`, and all compressed demos will be located in `environment/frontend_server/compressed_storage`. 
+
+## Authors and Citation
+
+**Authors:** Siyue Ren, Zhiyao Cui, Ruiqi Song, Zhen Wang, Shuyue Hu
+
+Please cite our paper if you use the code or data in this repository.
+
+```
+@misc{ren2024emergence,
+      title={Emergence of Social Norms in Large Language Model-based Agent Societies}, 
+      author={Siyue Ren and Zhiyao Cui and Ruiqi Song and Zhen Wang and Shuyue Hu},
+      year={2024},
+      eprint={2403.08251},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA}
+}
+```
+

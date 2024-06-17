@@ -125,13 +125,11 @@ All simulations that you save will be located in `environment/frontend_server/st
 Please cite our paper if you use the code or data in this repository.
 
 ```
-@misc{ren2024emergence,
-      title={Emergence of Social Norms in Large Language Model-based Agent Societies}, 
-      author={Siyue Ren and Zhiyao Cui and Ruiqi Song and Zhen Wang and Shuyue Hu},
-      year={2024},
-      eprint={2403.08251},
-      archivePrefix={arXiv},
-      primaryClass={cs.MA}
+@inproceedings{ren2024emergence,
+  title={Emergence of Social Norms in Generative Agent Societies: Principles and Architecture,
+  author={Ren, Siyue and Cui, Zhiyao and Song, Ruiqi and Wang, Zhen and Hu, Shuyue},
+  booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2024}
 }
 ```
 

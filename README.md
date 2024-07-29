@@ -1,6 +1,8 @@
 # Emergence of Social Norms in Large Language Model-based Agent Societies
 
-![](./crsec-demo.gif)
+https://private-user-images.githubusercontent.com/115558821/352891287-7db61bb9-65b2-47c6-be4a-36a8896ad2e9.mp4
+
+
 
 ***We are happy to announce that CRSEC has been accepted to HAI Special Track at IJCAI 2024!***
 

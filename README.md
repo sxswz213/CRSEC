@@ -1,4 +1,4 @@
-# Emergence of Social Norms in Large Language Model-based Agent Societies
+# Emergence of Social Norms in Generative Agent Societies: Principles and Architecture
 
 https://private-user-images.githubusercontent.com/115558821/352891287-7db61bb9-65b2-47c6-be4a-36a8896ad2e9.mp4
 
@@ -6,7 +6,7 @@ https://private-user-images.githubusercontent.com/115558821/352891287-7db61bb9-6
 
 ***We are happy to announce that CRSEC has been accepted to HAI Special Track at IJCAI 2024!***
 
-This repository is associated with our research paper titled "[Emergence of Social Norms in Large Language Model-based Agent Societies](https://arxiv.org/abs/2403.08251)" In this paper, we propose a novel agent architecture named CRSEC, consisting of four modules: Creation & Representation, Spreading, Evaluation, and Compliance, designed to facilitate the emergence of social norms within a generative agent society. This repository includes all four modules designed in our architecture and provides a replay for better understanding. We offer instructions for setting up the simulation environment on your local machine and for replaying the simulation as a demonstration animation.
+This repository is associated with our research paper titled "[Emergence of Social Norms in Generative Agent Societies: Principles and Architecture](https://www.ijcai.org/proceedings/2024/0874.pdf)" In this paper, we propose a novel agent architecture named CRSEC, consisting of four modules: Creation & Representation, Spreading, Evaluation, and Compliance, designed to facilitate the emergence of social norms within a generative agent society. This repository includes all four modules designed in our architecture and provides a replay for better understanding. We offer instructions for setting up the simulation environment on your local machine and for replaying the simulation as a demonstration animation. To access the full version of the demo, please refer to this [link](https://www.bilibili.com/video/BV1A142187EE). For supplementary materials, please refer to the following [arXiv link](https://arxiv.org/pdf/2403.08251).
 
 ## Setting Up the Environment 
 

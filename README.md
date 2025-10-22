@@ -10,7 +10,7 @@ This repository is associated with our research paper titled "[Emergence of Soci
 
 ## Relation between the modules and code
 
-All of the files below are stored in the folder `reverie\backend_server\norm`.
+All of the files bellow are stored in the folder `reverie\backend_server\norm`.
 
 | Module in CRSEC           | Prompt Folder                                  | Python Files                                      |
 | ------------------------- | ---------------------------------------------- | ------------------------------------------------- |

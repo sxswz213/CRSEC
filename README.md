@@ -8,6 +8,19 @@ https://private-user-images.githubusercontent.com/115558821/352891287-7db61bb9-6
 
 This repository is associated with our research paper titled "[Emergence of Social Norms in Generative Agent Societies: Principles and Architecture](https://www.ijcai.org/proceedings/2024/0874.pdf)" In this paper, we propose a novel agent architecture named CRSEC, consisting of four modules: Creation & Representation, Spreading, Evaluation, and Compliance, designed to facilitate the emergence of social norms within a generative agent society. This repository includes all four modules designed in our architecture and provides a replay for better understanding. We offer instructions for setting up the simulation environment on your local machine and for replaying the simulation as a demonstration animation. To access the full version of the demo, please refer to this [link](https://www.bilibili.com/video/BV1A142187EE). For supplementary materials, please refer to the following [arXiv link](https://arxiv.org/pdf/2403.08251).
 
+## Relation between the modules and code
+
+All of the files below are stored in the folder `reverie\backend_server\norm`.
+
+| Module in CRSEC           | Prompt Folder                                  | Python Files                                      |
+| ------------------------- | ---------------------------------------------- | ------------------------------------------------- |
+| Creation & Representation | creation_prompt                                | normNode.py<br />normDatabase.py<br />creation.py |
+| Spreading                 | norm_identify_prompt<br />norm_retrieve_prompt | norm_retrieve.py<br />norm_reflect.py             |
+| Evaluation                | norm_evaluate_prompt                           | norm_evaluate.py                                  |
+| Compliance                | norm_compliance_prompt                         | norm_compliance.py                                |
+
+
+
 ## Setting Up the Environment 
 
 To set up your environment, you will need to generate a `utils.py` file that contains your OpenAI API key and download the necessary packages.
